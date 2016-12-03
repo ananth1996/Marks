@@ -1,3 +1,7 @@
+'''
+This is a doc string to explain Stuff
+'''
+
 import requests
 from bs4 import BeautifulSoup
 import re
