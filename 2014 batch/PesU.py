@@ -6,10 +6,12 @@ import ast
 
 
 sess=requests.Session()
-url_1="http://results.rvce.edu.in/viewresult2.php"
-r=sess.get(url_1)
+url_1="https://pesuacademy.com/Academy/tr/result/01FB14ECS009"
+headers = {'User-Agent': 'Mozilla/5.0'}
+r=sess.get(url_1,verify=False, headers=headers)
 html=r.text
 print(html)
+'''
 soup=BeautifulSoup(html,"lxml")
 token = soup.body.findAll(text=re.compile('What is'))[0]
 ans = str(token[7:-2])
@@ -21,3 +23,4 @@ html=r.text
 
 
 print(html)
+'''
