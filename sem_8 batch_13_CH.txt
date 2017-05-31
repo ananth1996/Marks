@@ -1,0 +1,37 @@
+USN                  SGPA         12CH81          12CH82         12HSS83                           NAME
+1RV13CH001           9.90              S               B               S                 AAKASH AGARWAL
+1RV13CH002           9.90              S               A               A              AISHWARYA PANTULA
+1RV13CH003           9.90              S               B               S                 AKSHAY GOPALAN
+1RV13CH004           8.85              A               B               C            AKSHAY KIRAN PALKAR
+1RV13CH006           9.00              A               B               S             AYMAN ASLAM BHIMJI
+1RV13CH007           9.95              S               A               S                      B MANOHAR
+1RV13CH008          10.00              S               S               S               BHARATH RAGHAVAN
+1RV13CH011           9.95              S               A               S              GURURAJ DAPTARDAR
+1RV13CH012          10.00              S               S               S                      K R VARUN
+1RV13CH013           9.00              A               B               S                  KRISHNA PARIK
+1RV13CH014           9.85              S               B               A             KRUNAL CHAKRAVORTY
+1RV13CH016           9.85              S               A               B                MAITRI UPPALURI
+1RV13CH017           9.95              S               A               S        MANASVI HEMANT PARADKAR
+1RV13CH018          10.00              S               S               S                   NEHA AGRAWAL
+1RV13CH019           9.90              S               A               A                 NIRAV M BADANI
+1RV13CH020           9.90              S               A               A                NITHIN KRISHNAN
+1RV13CH021           9.00              A               A               A                   NITISH ANAND
+1RV13CH022           9.95              S               A               S                    NIVEDHA R M
+1RV13CH023           8.95              A               A               B                       PANINI K
+1RV13CH025           8.90              A               B               B                   RAKSHIT JAIN
+1RV13CH026           8.95              A               B               A               ROHIT J PANINDRA
+1RV13CH027           8.95              A               B               A               RUDRADEEP BISWAS
+1RV13CH028           9.00              A               B               S                    S SUSHMITHA
+1RV13CH029           9.00              A               B               S                  SARANSH SINGH
+1RV13CH030          10.00              S               S               S      SEETHARAMAN KOTHANDARAMAN
+1RV13CH031           9.85              S               A               B         SHRIPATHI RAMAKRISHNAN
+1RV13CH033          10.00              S               S               S                    SMRUTHI B S
+1RV13CH034           9.90              S               A               A               SOURODIPTO MODAK
+1RV13CH035           9.95              S               A               S              SRIJAN ADYANTHAYA
+1RV13CH036           9.80              S               B               B            SUBHANKAR CHOUDHURY
+1RV13CH037           8.00              B               B               B                 SUMAN BONAGERI
+1RV13CH038           9.80              S               B               B                   SURAJ V SHET
+1RV13CH040           9.85              S               A               B                    VARUN GUPTA
+1RV13CH041           9.95              S               A               S                         VIKRAM
+1RV13CH042           9.95              S               A               S           YASH KUMAR CHAUDHARY
+1RV13CH043           9.95              S               A               S                  DEVESH DUBEY 

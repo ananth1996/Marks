@@ -1,0 +1,32 @@
+USN                  SGPA        12HSM61          12CH62          12CH63          12CH64         12CHE65         12CH6CX         12CH6DX                           NAME
+1RV14CH001           9.12              A               A               A               A               A               A               S                   ADVESH JALAN
+1RV14CH002           6.62              C               C               B               E               E               C               B                 AKANKSHA GUPTA
+1RV14CH003           9.12              A               A               A               A               A               A               S                      AKHIL P M
+1RV14CH004           8.85              A               A               A               B               A               A               A          AKHIL SATISH MUKUNDAN
+1RV14CH005           8.85              A               A               A               B               A               A               A                     AKSHAY C B
+1RV14CH009           8.85              A               A               A               B               A               A               A           ANIRUDDH SHRIKRISHNA
+1RV14CH010           9.35              A               A               S               A               A               S               A                       ANUSHA M
+1RV14CH013           8.77              A               A               A               B               B               A               A                     ATUL MENON
+1RV14CH014           8.96              A               A               A               B               A               A               S                      BASAVARAJ
+1RV14CH015           7.42              B               B               B               D               B               B               C                   BHARADHWAJ K
+1RV14CH016           8.88              A               A               A               B               S               B               S                 BHAVATHARINI S
+1RV14CH017           6.15              B               C               C               F               C               C               B                   DEEPAK KUMAR
+1RV14CH018           9.00              A               A               A               A               A               A               A             GLEN CLETUS DSOUZA
+1RV14CH020           8.04              B               B               B               C               A               B               A                KARTHIK MOHAN P
+1RV14CH021           8.38              B               B               A               B               A               B               A       MEENAKSHI KRISHNAPPA ANI
+1RV14CH022           9.62              S               S               S               A               A               A               S               MEGHA RAJASEKHAR
+1RV14CH023           9.27              S               A               A               S               A               A               A                     NAGENDRA P
+1RV14CH024           7.15              B               C               B               E               B               C               A             PANCHANAN PRAMANIK
+1RV14CH025           7.58              B               B               B               D               C               B               A                POONAM KAMLEKAR
+1RV14CH026           6.65              C               C               C               E               C               C               B                   PRANAY SINHA
+1RV14CH027           8.27              B               B               B               B               B               A               A                RAKESH M BADAMI
+1RV14CH028           7.92              B               B               C               B               B               B               A                   RAKSHITH M R
+1RV14CH029           8.92              A               A               A               A               B               A               A                   RISHIL R RAI
+1RV14CH031           1.58              F              AB               F               F               D               E               D                 SHREYA KRISHNA
+1RV14CH032           9.12              A               A               A               A               A               A               S     SIDDARTH KRISHNARAJA ACHAR
+1RV14CH033           8.85              A               A               A               A               A               B               A                 SIDDHANT GUPTA
+1RV14CH034           9.12              A               A               A               A               A               A               S                 SNEHIL KUMAR B
+1RV14CH036           9.12              A               A               A               A               A               A               S                   SUMEDHA BHAT
+1RV14CH037           7.81              B               B               B               C               B               C               A                     SUPRABHA K
+1RV14CH039           6.46              C               C               B            NSAR               B               B               B                  VAIBHAV SINGH
+1RV14CH041           9.04              A               A               A               A               B               A               S        SHRI LAKSHMI S BONAGERI

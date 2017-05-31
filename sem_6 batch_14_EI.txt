@@ -1,0 +1,44 @@
+USN                  SGPA        12HSI61          12IT62          12IT63          12IT64         12ITE65         12IT6CX         12IT6DX                           NAME
+1RV14EI001           8.23              B               A               B               B               A               B               B                AAKASH BHANSALI
+1RV14EI003           9.08              A               A               A               A               S               A               A                  ABHISHEK BOSE
+1RV14EI006           8.42              B               B               A               B               A               A               B                AKSHAY KRISHNAN
+1RV14EI008           6.62              C               B               B               C               B               C            NSAR                 ANIMESH PORWAL
+1RV14EI010           8.08              B               B               B               B               A               B               B                    ASHNA MANOJ
+1RV14EI011           9.15              B               A               S               A               S               A               A                    ASHWIN VINU
+1RV14EI012           8.88              B               A               A               A               A               A               A                      B V UJWAL
+1RV14EI013           8.42              B               B               A               B               A               A               B        CHINMAYEE G MAHAGAONKAR
+1RV14EI014           8.96              B               A               A               A               S               A               A                     DEEKSHA S 
+1RV14EI015           8.73              B               B               A               A               A               A               A                 DEVYANI TANWAR
+1RV14EI016           9.27              B               A               S               A               S               A               S                       GANAVI B
+1RV14EI017           8.58              B               B               A               A               A               B               A                   HAMPEESH K O
+1RV14EI018           9.08              B               A               A               A               S               A               S                      JACUS JOE
+1RV14EI019           8.08              B               B               B               A               B               B               C                   JOYDEEP DEY 
+1RV14EI024           9.04              B               A               S               A               S               A               B                 KEREN E THOMAS
+1RV14EI025           7.42              D               B               B               C               A               B               C        LOHITH CHANDRA PRASAD R
+1RV14EI027           9.15              B               A               S               A               S               A               A                      MANISHA M
+1RV14EI028           8.42              C               A               A               A               B               B               B                 MANJUNATHA M S
+1RV14EI029           8.31              C               A               A               B               A               B               B                   NANDAN KUMAR
+1RV14EI030           8.46              C               A               A               B               A               A               B                  NAVYATHA A M 
+1RV14EI032           6.92              B               B               A               X               S               B               A             NISHANT SRIVASTAVA
+1RV14EI033           8.88              B               A               A               A               A               A               A                     P THEJASRI
+1RV14EI034           8.50              C               B               A               B               S               A               A         POORNACHANDRA R BHATTA
+1RV14EI036           8.77              B               A               A               A               A               A               B                 SAHANA G HEGDE
+1RV14EI037           9.38              B               S               A               A               S               S               S                     SAHANA H G
+1RV14EI040           8.77              B               A               A               A               A               A               B                   SANHITA GUHA
+1RV14EI041           8.15              B               B               B               B               B               A               B                SANJAY HUNAGUND
+1RV14EI043           5.50              D               C               C               F               B               C               C                  SHRINJIT DASH
+1RV14EI044           8.15              C               B               A               B               A               B               B                    SHRUTHI T V
+1RV14EI045           8.42              B               B               A               B               A               A               B                SIDDHANT BAJPAI
+1RV14EI046           7.81              C               B               B               B               C               B               B              SIDDHARTH SHEKHAR
+1RV14EI047           7.69              C               B               B               B               A               C               C                    SNEHA REDDY
+1RV14EI048           8.69              B               A               A               B               A               A               A               SOOYASH TRIPATHI
+1RV14EI050           8.77              C               A               A               A               A               A               A                  SUPRIYA SINGH
+1RV14EI052           8.58              B               A               A               B               A               A               B           SUSHMITHA T KUNDARGI
+1RV14EI053           8.23              B               B               A               B               B               A               C                      T MONISH 
+1RV14EI055           8.85              B               A               A               A               S               A               B                     TRISHALA M
+1RV14EI056           8.92              B               S               A               A               A               A               B                VENKATESH PAWAR
+1RV14EI057           8.69              B               A               B               A               A               A               A              VENKATESH R GOTUR
+1RV14EI058           7.81              B               B               B               C               B               B               B                    VIDHI GUPTA
+1RV14EI059           2.58              C               F            NSAR               F               C               B            NSAR             VISHESH SRIVASTAVA
+1RV14EI062           8.96              B               A               A               A               S               A               A                   ARPITHA B U 
+1RV14EI063           8.69              B               A               B               A               A               A               A                              -

@@ -1,0 +1,63 @@
+USN                  SGPA        16MA21C          16CH22          16CS23          16EC24          16ME25                           NAME
+1RV16EI001           8.20              A               B               B               B               B                   AAYUSH SINGH
+1RV16EI002           5.20              E               D               D               E               D                ABHISHEK PARIDA
+1RV16EI003           7.20              C               C               C               C               B           ADITYA S ANEPPANAVAR
+1RV16EI004           7.00              D               B               C               D               B                  AJAY ARVIND P
+1RV16EI005           9.20              S               A               A               A               A                       AKSHAY V
+1RV16EI006           2.00              E               F            NSSR            NSSR               D                    ANIKET JAIN
+1RV16EI007           9.00              S               A               A               B               A                    ANISH MITRA
+1RV16EI008           1.20           NSSR            NSSR               F            NSSR               D                      ANKIT JHA
+1RV16EI009           7.80              B               B               A               D               B                 ARJUN SHILOTRI
+1RV16EI010           7.80              B               A               B               D               B                    AVI AGARWAL
+1RV16EI011           5.80              B               C               C            NSSR               C           AYUSH KUMAR UPADHYAY
+1RV16EI012           5.80              D               D               D               E               C                   AYYANNA SERI
+1RV16EI013           4.80              D               C               X               E               C                      CHANDAN S
+1RV16EI014           9.00              S               A               B               A               A                      CHANNAMMA
+1RV16EI015           6.00              C               D               D               E               C                CHETAN ADHIKARI
+1RV16EI016           0.00           NSAR            NSAR            NSSR            NSSR            NSAR                DARSHAN RAJ A S
+1RV16EI017           7.00              C               B               D               D               B             DEVANSHU MUKHERJEE
+1RV16EI018           9.40              S               S               A               A               A                  DISHA R GULUR
+1RV16EI019           9.60              S               S               A               S               A                        E VARUN
+1RV16EI020           3.40              D               E            NSSR            NSSR               C  MHETRE GURURAJ SUBHASHCHANDRA
+1RV16EI021           4.60              D               D               F               E               C                        H MANOJ
+1RV16EI022           1.20           NSAR               F               F            NSSR               D            HARISH BEMALKHEDKAR
+1RV16EI023           7.00              C               B               D               D               B                   JENCY MONICA
+1RV16EI024           8.00              B               B               B               B               B                 K AKHILESH RAO
+1RV16EI025           7.20              B               C               C               C               C                KSHITIJ PRASHAR
+1RV16EI026           8.60              A               A               B               A               B                  MADHUL MAYANK
+1RV16EI027           8.40              A               A               A               C               B             MAKANI RAMAKRISHNA
+1RV16EI028           8.40              A               B               B               A               B             MEGHANA RANGARAJAN
+1RV16EI029           1.20           NSAR            NSAR            NSSR            NSSR               D                MIR JASIR RIYAZ
+1RV16EI030           6.80              B               A            NSSR               B               A                   MUDIT SHARMA
+1RV16EI031           8.20              A               B               A               C               B                   MUKUND ANKIT
+1RV16EI032           8.40              A               B               B               B               A    MURALI GANESH CHITTAPRAGADA
+1RV16EI033           3.40              F               D               F               E               C                NIVEDITA JYOTHI
+1RV16EI034           6.40              D               C               C               E               B                    NIVEDITHA N
+1RV16EI035           8.00              B               B               B               B               B               PRAHALLAD INNANI
+1RV16EI036           6.40              E               B               C               E               A                     PRANAV B P
+1RV16EI037           8.40              A               A               C               B               A               PRASANNA KUMAR S
+1RV16EI038           8.60              A               A               A               B               B             PRASHANTH MYPADI R
+1RV16EI039           7.60              S               S               F               A               A                       RIMA RAJ
+1RV16EI040           8.80              A               A               B               A               A                     RIYA SAINI
+1RV16EI041           7.00              D               B               C               D               B                      S SANJANA
+1RV16EI042           9.40              A               S               A               S               A                      S SASHANK
+1RV16EI043           0.00           NSSR            NSSR               F            NSSR               F                    SANU KUMARI
+1RV16EI044           5.00              C               C               F               E               C          SHOUNAK HEMANT DAHALE
+1RV16EI045           1.20              F               D               F            NSSR               F                     SHRIYA V S
+1RV16EI046           2.00              E               D               F            NSSR               F                 SNIGDHA MISHRA
+1RV16EI047           9.20              S               A               A               A               A                     SOMALI ROY
+1RV16EI048           9.20              S               A               A               A               A              SRAVANTI K RAMESH
+1RV16EI049           8.60              A               A               B               A               B               SURABHI RAKHECHA
+1RV16EI050           3.80              F               D               D            NSSR               C                 SWATHI SRIDHAR
+1RV16EI051           5.80              F               B               C               D               B                   TALIN MITTAL
+1RV16EI052          10.00              S               S               S               S               S                   TANAY PRATIK
+1RV16EI053           8.20              A               B               B               B               B                    TANUSHREE B
+1RV16EI054           6.60              A               B              NE               C               A                        TAYAMMA
+1RV16EI055           8.60              A               B               B               A               A          TRISHAL SANATH JADHAV
+1RV16EI056           3.60           NSSR               E               C            NSSR               C                  UNNATI SIMRAN
+1RV16EI057           2.80              E               F               E            NSSR               D                   USHA S JANGE
+1RV16EI058           1.20              F               F               D            NSSR               F                VEENUSHA SHARMA
+1RV16EI059           9.00              S               A               B               A               A              VENKAT S RAGHAVAN
+1RV16EI060           9.20              A               A               S               A               A                    VIDHYASHREE
+1RV16EI061           7.80              B               C               B               B               B                        VINAY R
+1RV16EI062           9.00              A               A               A               A               A                    VISHAKH M M

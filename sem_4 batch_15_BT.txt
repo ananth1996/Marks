@@ -1,0 +1,44 @@
+USN                  SGPA         12BT41          12EM42          12BT43          12BT44          12BT45          12BT46         12HSS47                           NAME
+1RV15BT002           8.39              A               B               B               A               A               C               S             ABHIDITH SHETTY N 
+1RV15BT003           6.79              A               B               B               B               B               F               S            AISHWARYA R VITTAL 
+1RV15BT004           5.71              A               B               A               I              AB               A               S       ALISHA SUSANA RODRIGUES 
+1RV15BT005           5.61              B               F               B               B               C               F               S              ANANYA BADRINATH 
+1RV15BT006           8.36              A               B               B               A               A               C               A                  ANISMITA SAHA
+1RV15BT007           9.25              S               B               A               A               S               A               S                ANJALI R GOWDA 
+1RV15BT008           9.36              A               A               A               S               S               A               A                        ANUSHA 
+1RV15BT010           9.71              S               A               S               S               S               A               S              B S HIMASHANKARI 
+1RV15BT011           9.71              S               A               S               S               S               A               S               CHANDRANANTHI C 
+1RV15BT013           7.86              A               B               C               B               C               B               S           HARSHIT KUMAR BERIA 
+1RV15BT014           8.57              A               B               A               A               B               B               S           HARSHITA SRINIVASAN 
+1RV15BT017           6.61              A               B               B               B               C               F               S                      JANANI K 
+1RV15BT019           6.57              A               X               B               B               C               D               B                 KAVYA S MENON 
+1RV15BT020           7.14              A               B               A               A               B               F               S               KEERTHI REDDY T 
+1RV15BT021           8.86              S               B               A               A               A               B               A                    KRITHIKA K 
+1RV15BT023           9.32              S               A               A               A               S               A               A                NEHA HATANGADI 
+1RV15BT024           9.07              A               B               A               S               A               A               A                     NIMISHA B 
+1RV15BT025           8.54              S               B               A               A               B               C               S                NINISHA PRADHAN
+1RV15BT026           8.39              A               B               A               A               B               C               S                PALLAVI SURANA 
+1RV15BT029           8.89              A               B               A               A               A               A               A                   PRASHANTH S 
+1RV15BT030            4.5              B               F               C               C               F               E               E                     PRATEEK M 
+1RV15BT031           8.54              S               B               B               A               A               C               S                PRATEEK SHARMA 
+1RV15BT033           8.54              S               B               A               A               B               C               S                  RISHIKA DATLA
+1RV15BT035           8.39              A               C               A               A               A               C               B                   S KAVYASREE 
+1RV15BT036           7.86              A               B               A               A               B               E               S               SAHITHYA S ALVA 
+1RV15BT038           7.82              A               B               A               A               B               D               E            SANTHOSH KUMAR M S 
+1RV15BT040           8.32              A               B               A               A               B               C               B       SHIVANI PRALHAD AMINGAD 
+1RV15BT041           8.04              A               B               B               B               B               C               S                     SHREYASVI 
+1RV15BT042           7.75              A               C               B               A               B               D               S                       SHRUTHI 
+1RV15BT043           8.39              A               B               A               A               B               C               S      SHRUTHI SANKARANARAYANAN 
+1RV15BT044           8.18              A               B               A               B               B               C               A                  SHRUTI SINGH 
+1RV15BT046           8.04              A               B               B               B               B               C               S                 SIDDHARTH P N 
+1RV15BT048           8.57              A               B               A               A               A               C               S              SMRUTI PIMPLIKAR 
+1RV15BT049           9.54              S               A               A               S               S               A               S                    SOUJANYA S 
+1RV15BT050           7.86              A               B               B               A               B               D               S               SRADDHA AGARWAL 
+1RV15BT051           8.39              A               B               A               B               B               B               S                  SRIKANTH B S 
+1RV15BT053           8.68              A               B               A               A               A               B               B                 SUPRIYA YALPU 
+1RV15BT054           8.57              A               B               A               B               A               B               S                TANISHA UJJAIN 
+1RV15BT055           8.39              A               B               B               A               B               B               S                TANMAY AGARWAL 
+1RV15BT056           9.71              S               A               S               S               A               S               S                       UCHIT B 
+1RV15BT058           8.93              A               B               A               A               A               A               S               V PRIYADHARSINI 
+1RV15BT060           8.18              A               B               B               B               B               B               A        YASHWANTH KUMAR RANJAN 
+1RV15BT061           8.89              A               B               A               S               A               B               A                 NIVITHA MURALI

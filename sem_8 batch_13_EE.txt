@@ -1,0 +1,59 @@
+USN                  SGPA         12EE81          12EE82         12HSS83                           NAME
+1RV13EE002           9.05              A               A               S                 ABHISHEK KUMAR
+1RV13EE003          10.00              S               S               S                       ADITYA A
+1RV13EE005           9.05              A               A               S                        AKHIL S
+1RV13EE006          10.00              S               S               S                       AKSHAY R
+1RV13EE008           9.05              A               A               S                   ANURAG KUMAR
+1RV13EE009           9.00              A               A               A                ARCHISA GUHAROY
+1RV13EE010           9.05              A               A               S                       ARVIND S
+1RV13EE011          10.00              S               S               S                   ASHAD FARHAN
+1RV13EE012           9.00              A               A               A                 ASHWIN KUMAR V
+1RV13EE013           9.05              A               A               S                  ASTITVA SINGH
+1RV13EE014           8.95              A               A               B                       BANNAPPA
+1RV13EE015           9.05              A               A               S              BIKASITA TALUKDAR
+1RV13EE016          10.00              S               S               S                CHAITRA A REDDY
+1RV13EE017           9.05              A               A               S               CHANAKYA S CHURI
+1RV13EE019           9.10              A               S               S            CHELLUKURI NAGENDRA
+1RV13EE020           9.00              A               A               A                      DEEPA K M
+1RV13EE022           9.05              A               A               S        ENDLA VENKATA KEERTHANA
+1RV13EE023          10.00              S               S               S            G CHAITANYA LAKSHMI
+1RV13EE024           9.00              A               A               A         GLEN CHRISTY FERNANDES
+1RV13EE025           9.05              A               A               S                    HARSH VARMA
+1RV13EE026           9.05              A               A               S                 HARSHIL H SHAH
+1RV13EE027           9.05              A               A               S           J DARSHAN JAISHANKAR
+1RV13EE028           9.95              S               A               S                JOY CHAKRABORTY
+1RV13EE029           9.00              A               A               A                       K MANISH
+1RV13EE031           9.95              S               A               S             KATHAKALI BANERJEE
+1RV13EE032           9.05              A               A               S            MAHATHY RAJAGOPALAN
+1RV13EE033           9.95              S               A               S                     MONIKA JHA
+1RV13EE034           9.05              A               A               S         MUKUND KISHAN KULKARNI
+1RV13EE035           9.70              S               A               D        NANDHINI PREETHA GANESH
+1RV13EE036           9.00              A               A               A            NEELIMA TAJ KOLLARA
+1RV13EE037           9.10              A               S               S              NIRAJ KUMAR SINGH
+1RV13EE038          10.00              S               S               S               NIRANJAN R HEGDE
+1RV13EE039           8.05              B               A               B                   NIRANJAN Y S
+1RV13EE040           9.10              A               S               S                 P SRAVAN KUMAR
+1RV13EE041           8.75              A               A               E           PAVAN ASHOK DODAMANI
+1RV13EE042           9.95              S               S               A                    PAVAN R RAO
+1RV13EE043          10.00              S               S               S             PHALGUN MADHUSUDAN
+1RV13EE044           8.95              A               A               B                 RAGHAV SUBAIAH
+1RV13EE045           9.00              A               A               A                     RAHUL BASU
+1RV13EE046          10.00              S               S               S               RAJAT S DEVAGIRI
+1RV13EE047           8.05              B               A               B                  SAI KRISHNA P
+1RV13EE048           9.10              A               S               S                 SHRESHTHA BASU
+1RV13EE049           9.90              S               A               A                      SHRUTHI J
+1RV13EE050           9.00              A               A               A                 SHUBHAM BHUPAL
+1RV13EE051           8.95              A               A               B             SHUBHAM SRIVASTAVA
+1RV13EE052          10.00              S               S               S          SHUBHANKAR S KULKARNI
+1RV13EE053           9.10              A               S               S                SUMUKHA V UDUPA
+1RV13EE055          10.00              S               S               S                          UMA M
+1RV13EE056          10.00              S               S               S                    VAISHNAVI G
+1RV13EE057          10.00              S               S               S                  VARADI NAGESH
+1RV13EE058           9.10              A               S               S                          VIVEK
+1RV13EE059          10.00              S               S               S             VIVEK KUMAR SHARMA
+1RV13EE060          10.00              S               S               S       VRUSHABHA KUMAR KULKARNI
+1RV13EE062           9.00              A               A               A         YASHVEER SINGH CHAUHAN
+1RV13EE063           9.05              A               A               S                  SATVIKA SAKET
+1RV13EE064           9.05              A               A               S                VARUN SIDDHARTH
+1RV13EE065           9.05              A               A               S                     MUKUL SETH
+1RV13EE066           9.95              S               A               S             POORNIMA P KAUSHIK

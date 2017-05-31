@@ -1,0 +1,109 @@
+USN                  SGPA         12CV81          12CV82         12HSS83                           NAME
+1RV13CV002           8.95              A               B               A                ABHIMAN RATHORE
+1RV13CV003           8.95              A               A               B                 ADARSH AGRAWAL
+1RV13CV004           9.05              A               A               S                   ADITYA DHRUW
+1RV13CV005           9.90              S               A               A                    ADITYA GARG
+1RV13CV007           9.95              S               A               S           AISHWARYA MANJUNATHA
+1RV13CV008           9.95              S               A               S            AISHWARYA NAYAK B R
+1RV13CV009          10.00              S               S               S                     AKSHAY B A
+1RV13CV010           9.05              A               A               S  AKSHAY SURESH KUMAR SANKLECHA
+1RV13CV011          10.00              S               S               S              AKSHYAKUMAR PATIL
+1RV13CV012           9.00              A               A               A                    AMAN SHETTY
+1RV13CV013           9.90              S               A               A                     AMIT KUMAR
+1RV13CV014           9.95              S               A               S                     AMIT KUMAR
+1RV13CV015           9.00              A               B               S                     AMIT KUMAR
+1RV13CV016           9.00              A               A               A                 AMIT LALASANGI
+1RV13CV017          10.00              S               S               S                    ANAND KUMAR
+1RV13CV018           9.05              A               A               S                      ANKIT RAJ
+1RV13CV019           8.95              A               B               A                     ANKIT RAVI
+1RV13CV020           9.05              A               S               A                       ANSHUMAN
+1RV13CV021           9.00              A               A               A                   ANUJ GANOTRA
+1RV13CV022           9.05              A               A               S                      ANURAAG C
+1RV13CV023           8.95              A               A               B                   ANURAG GANTA
+1RV13CV024          10.00              S               S               S                   ANURAG KUMAR
+1RV13CV025           9.95              S               A               S                   AYUSH BANSAL
+1RV13CV026           9.05              A               A               S              BASANAGOUDA PATIL
+1RV13CV027           8.95              A               A               B            BASIT KHURSHID SHAH
+1RV13CV028           8.90              A               B               B                BHARATH KUMAR C
+1RV13CV031          10.00              S               S               S                    BHARGAV M R
+1RV13CV032           9.90              S               S               B         BHARTENDU PRATAP SINGH
+1RV13CV033           9.90              S               A               A             BIKASH PRATIM DEKA
+1RV13CV034           9.00              A               A               A              CHANDRA MOULI K S
+1RV13CV035           9.00              A               A               A                       CHANDU P
+1RV13CV036           9.05              A               S               A                        DEEPA G
+1RV13CV038           9.85              S               A               B               DEVANSHI AGARWAL
+1RV13CV039           9.85              S               B               A                 DHRUV AGGARWAL
+1RV13CV040           9.05              A               A               S                       G LOHITH
+1RV13CV042           9.90              S               S               B                   GURUNANDAN M
+1RV13CV043           9.05              A               A               S         GURUSANGAMESH BAGEWADI
+1RV13CV044           8.95              A               A               B                      H ABILASH
+1RV13CV045           9.05              A               A               S               HANUMANTHARAYA J
+1RV13CV046           9.05              A               A               S                 HARISH GOWDA S
+1RV13CV048           9.95              S               A               S                 HARSHIT P JAIN
+1RV13CV049           9.90              S               A               A                HEMANTH KUMAR R
+1RV13CV050           9.95              S               A               S               HIMANSHU NAVNEET
+1RV13CV051           8.95              A               B               A                   HRUDAY PATIL
+1RV13CV052           9.95              S               A               S         JOYAL ABHISHEK D SOUZA
+1RV13CV053           9.95              S               A               S          JUGATI VINAY DEVANAND
+1RV13CV054           8.90              A               B               B                 K VIKRAM SINGH
+1RV13CV055           9.00              A               A               A                  KABBERU VIJAY
+1RV13CV057           8.95              A               A               B             KIRAN S MATTIHALLI
+1RV13CV058           8.95              A               A               B                   KISHAN KUMAR
+1RV13CV060           9.05              A               A               S                  KUMAR RISHABH
+1RV13CV062           9.90              S               A               A                  KUNDAN PRASAD
+1RV13CV063           9.05              A               A               S                  M MANOJ KUMAR
+1RV13CV064           9.05              A               A               S                  M RAHUL KUMAR
+1RV13CV066           8.90              A               B               B              MALLOTHU ABHILASH
+1RV13CV067           9.95              S               A               S                      MAMATHA G
+1RV13CV069           9.05              A               A               S             MATRU PRASAD NANDA
+1RV13CV071           8.10              B               A               A                       MD DAWUD
+1RV13CV072           8.95              A               A               B                   MD SAIFUDDIN
+1RV13CV073           9.00              A               A               A               MD TOUSEEF AHMED
+1RV13CV074           8.95              A               A               B    MOHAMED ARZOO ABDUL LATHEEF
+1RV13CV075           8.00              B               B               B           MOHAMED IHTESHAM S A
+1RV13CV076           9.05              A               A               S                  MOHAMMAD RAFI
+1RV13CV077           9.00              A               A               A                 MOHAMMED AHMED
+1RV13CV078           8.95              A               A               B           MOHAMMED MAZHARUDDIN
+1RV13CV079           8.05              B               A               B  MOHAMMED WAQAR YOUNUS QURESHI
+1RV13CV081          10.00              S               S               S                 NAGARJUN REDDY
+1RV13CV082           9.05              A               A               S             NARENDRA B HAMPOLE
+1RV13CV083           9.00              A               A               A                  NAVNEET VERMA
+1RV13CV084           9.90              S               A               A                   NAVYASHREE R
+1RV13CV085           8.00              B               B               B                    NIKHILREDDY
+1RV13CV086           9.95              S               A               S                  NIVEDITHA N R
+1RV13CV087          10.00              S               S               S                P SATHISH KUMAR
+1RV13CV088           9.00              A               A               A                 PAVAN DODAMANI
+1RV13CV090           9.05              A               A               S                       PRASHANT
+1RV13CV091          10.00              S               S               S                  PRATUL N NEMA
+1RV13CV092           9.95              S               A               S                      PUNEETH K
+1RV13CV093           9.05              A               A               S          RAMACHANDRA RAO KATTA
+1RV13CV094           9.70              S               S               E              RAMESH BOMMANALLI
+1RV13CV095           9.85              S               A               B                    RANJITH H O
+1RV13CV096           9.95              S               A               S              RISHI RAJ KASHYAP
+1RV13CV098           9.00              A               A               A                       RITU S P
+1RV13CV099           9.05              A               A               S       S NAGENDRA ABINAVA VARMA
+1RV13CV100           9.00              A               B               S                     SACHIN T M
+1RV13CV101           9.05              A               A               S                      SANTOSH M
+1RV13CV102           9.00              A               A               A             SARADARALI MUJAVAR
+1RV13CV103           9.95              S               S               A              SATYAPRIYA MAURYA
+1RV13CV104           9.90              S               A               A                    SHANU KUMAR
+1RV13CV106           9.05              A               A               S                   SHIVAM SANOO
+1RV13CV107          10.00              S               S               S                   SHOBHIT JAIN
+1RV13CV108           8.95              A               B               A                        SHRAVAN
+1RV13CV109           9.90              S               A               A                   SHREENIDHI R
+1RV13CV110          10.00              S               S               S                     SRUTHI K S
+1RV13CV111           9.05              A               S               A                   SUDARSHANA V
+1RV13CV112           9.05              A               A               S                     SUNILKUMAR
+1RV13CV115           8.90              A               A               C                TADH TOK CAMDIR
+1RV13CV117          10.00              S               S               S               UJWAL KUMAR SONI
+1RV13CV119           9.05              A               A               S                      VARUN B M
+1RV13CV120           9.05              A               A               S                     VEERSHETTY
+1RV13CV121           9.90              S               A               A                 VENKAT AKHIL K
+1RV13CV122           9.05              A               A               S             VENKATESH PRASAD S
+1RV13CV123           9.95              S               A               S                 VIKUONUO KRAHO
+1RV13CV124           9.95              S               A               S             VINEET SINGH TOMAR
+1RV13CV126           9.00              A               A               A                  AVINASH KUMAR
+1RV13CV127           9.00              A               A               A                       SHASHANK
+1RV13CV128           9.00              A               A               A                   KAVYASHREE K
+1RV13CV129           9.05              A               A               S                      VINEETH M
+1RV13CV130           8.95              A               A               B                  NAMRATA JOSHI

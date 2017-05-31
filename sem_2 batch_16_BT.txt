@@ -1,0 +1,58 @@
+USN                  SGPA        16MA21C          16CH22          16CS23          16EC24          16ME25                           NAME
+1RV16BT001           0.00           NSSR               F            NSSR            NSSR               F              ADITYA LAHARI G K
+1RV16BT002           7.60              D               B               A               C               B                AKASHRAJ MURTHY
+1RV16BT003           6.40              E               C               B               D               C                    AKHIL SILLA
+1RV16BT004           8.00              C               A               A               C               B                        ANKIT C
+1RV16BT005           7.40              C               B               B               D               B                ANUPAMA NAYAK M
+1RV16BT006           2.40           NSSR               D               F            NSSR               D                         ANUSHA
+1RV16BT007           8.00              C               A               B               B               B        ANUSHREE VINAYAKA LOKUR
+1RV16BT008           8.00              B               A               B               C               B                  ANWESHA SINHA
+1RV16BT009           7.00              D               B               B               D               C                   ARJUN MURTHY
+1RV16BT010           3.20              E               D               F               F               D                ASHVITHA ARVIND
+1RV16BT011           7.40              C               A               C               C               C     DEEPALI VENKATESH PRASANNA
+1RV16BT012           2.80           NSSR               B               F               F               D                     ESHWAR S M
+1RV16BT013           6.20              D               C               C               E               C                      HAVISHA D
+1RV16BT014           3.20              E               D               F            NSSR               D                   ISHITA SADHU
+1RV16BT015           8.60              A               A               A               B               B                    JYOTHSANA R
+1RV16BT016           8.20              B               B               A               B               B                K J YUVASHANKAR
+1RV16BT017           9.40              A               S               S               A               A                  K MUGDHA BHAT
+1RV16BT018           8.20              A               B               A               C               B             KANDI ARVIND REDDY
+1RV16BT019           9.20              A               S               A               A               A                        KAVYA K
+1RV16BT020           9.00              A               S               A               B               A                    KEERTHANA R
+1RV16BT021           7.40              D               B               A               D               B                     KRUTHIKA P
+1RV16BT022           1.40           NSSR            NSSR               C            NSSR            NSSR           MOHAMMAD NIHAL HASAN
+1RV16BT023           4.00           NSSR               B               D               F               D                    NAMITA SHAH
+1RV16BT024           2.00              F               F               E               F               D                        NIPUN S
+1RV16BT025           5.00              D               B               F               E               C               NIVIDHA BHANDARI
+1RV16BT026           8.20              B               A               B               B               B                 P NAVEEN KUMAR
+1RV16BT027           3.60              F               C               F               E               C               PAVITHRA SHEKHAR
+1RV16BT028           1.20           NSSR               D               F               F               F              PINJALA ABHAYDEEP
+1RV16BT029           1.20              F               D               F               F               F                 PRATHIKSHA A V
+1RV16BT030           4.80              C               C               F               E               D     PARDESHI PRUTHVIRAJ VIKRAM
+1RV16BT031           4.20           NSSR               C               C               F               C                      RACHANA R
+1RV16BT032           5.20              D               A               F               E               C                    RAGHAVI C H
+1RV16BT033           3.40              E               C               D               F               F                 RAHUL RAMMOHAN
+1RV16BT034           8.20              B               A               A               C               B           REBECCA MARIA DSILVA
+1RV16BT035           8.40              A               S               A               D               B            RITHIKA PRAVIN IYER
+1RV16BT036           0.80              E            NSSR               F            NSSR               F       RIYA PRABHAKAR MADHIRAJU
+1RV16BT037           8.60              A               S               A               C               B            RUCHIKA PRAVIN IYER
+1RV16BT038           7.20              C               B               C               C               C            SAGAR P TEMBADAMANI
+1RV16BT039           9.20              A               S               A               B               S              SAKETH VISHNU B O
+1RV16BT040           8.20              A               A               B               C               B                   SAKSHI SINGH
+1RV16BT041           8.40              A               A               B               C               A               SANUTHA M SHETTY
+1RV16BT042           8.60              A               A               A               B               B                    SHEENA GARG
+1RV16BT043           8.40              B               A               B               B               A          SHREEYA SAI RAGHUNATH
+1RV16BT044           9.00              A               S               A               B               A                 SIDDHARTH JAIN
+1RV16BT045           7.00              C               B               C               D               C    SUPREET UPENDRA KUMAR ARABI
+1RV16BT046           8.60              B               A               A               B               A                    SWAROOP G M
+1RV16BT047           8.20              B               A               A               C               B            SYEDA AYESHA BUSHRA
+1RV16BT048           0.00           NSAR            NSAR               F               F               F               V JAGRUTHE REDDY
+1RV16BT049           4.40              E               C               F               E               C                  VAISHNAVI G P
+1RV16BT050           8.00              B               A               A               D               B                       VARSHA G
+1RV16BT051           8.40              A               A               A               C               B           VARTIKA KHANCHANDANI
+1RV16BT052           4.20              E               C              AB               E               D             VENKATESH KULKARNI
+1RV16BT053           9.60              S               S               S               A               A                  VIDHYAVATHY N
+1RV16BT054           6.40              E               B               B               E               B                VIMESANUO KRAHO
+1RV16BT055           0.00           NSAR            NSSR            None            NSAR            NSSR                   CHETAN BERIA
+1RV16BT056           8.20              B               B               A               C               A                  HARDIK N SHAH
+1RV16BT057           0.00           None            NSSR            None            NSAR            None           HITAISHI VIJAY NAYAK

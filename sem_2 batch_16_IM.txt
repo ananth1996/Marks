@@ -1,0 +1,64 @@
+USN                  SGPA        16MA21C          16CH22          16CS23          16EC24          16ME25                           NAME
+1RV16IM001           5.60              D               B               C               F               C        AARYA PRATAP SINGH RANA
+1RV16IM002           2.80              E               D               E            NSSR               F                 ABHISHEK SINGH
+1RV16IM003           7.60              B               B               B               D               B                  ADITYA SOMANI
+1RV16IM004           2.80              E               F               F               E               D          ADITYA VIKRAM BAGARIA
+1RV16IM005           7.80              A               B               C               C               B                AISHWARYA SINHA
+1RV16IM006           8.40              B               A               A               C               A              AKSHATA KATYAYANA
+1RV16IM007           7.60              C               B               A               D               B                  AKSHIT BHALLA
+1RV16IM008           7.80              B               A               C               C               B                   ALAMELA NATH
+1RV16IM009           4.20           NSSR               C               E               E               D               AMULYA ACHARYA K
+1RV16IM010           6.40              D               C               D               D               C                      ANOOP G M
+1RV16IM011           5.20              E               C               D               E               D                      ANUUSHA G
+1RV16IM012           6.80              C               B               D               D               C                 LIKITH KUMAR B
+1RV16IM013           8.20              B               A               B               C               A              BADRINATH NAYAK K
+1RV16IM014           6.60              D               C               C               D               C                  D VISHWANATHA
+1RV16IM015           7.00              D               B               B               D               C            DEEPTI P BHUMARADDI
+1RV16IM016           7.20              D               B               B               D               B              H ANIRUDH KASHYAP
+1RV16IM017           4.00              F               C               D               F               C                 HARISH KUMAR M
+1RV16IM018           3.60              D               D               F               F               D                  HARSHITHA S R
+1RV16IM019           6.80              C               B               D               D               C                 HIMANSHU SAHNI
+1RV16IM020           7.00              C               B               C               D               C              ISMAIL ZABIULLA K
+1RV16IM021           3.20              E               D               F               F               D              IVAN JOSEPH JAMES
+1RV16IM022           7.20              B               B               C               D               C                  KAUSHIK SUMAN
+1RV16IM023           0.00           NSAR            NSSR            NSSR            NSSR            NSSR           KHAN MOHAMMAD ARBAAZ
+1RV16IM024           4.40              F               D               D               E               D                        KOMAL M
+1RV16IM025           3.20              F               D               F               E               D            KRISHNA SINGH BATIA
+1RV16IM026           5.20              E               C               E               E               C             KRITHIKA DEVAIAH A
+1RV16IM027           8.60              B               A               A               A               B                   KUMAR ASHISH
+1RV16IM028           6.60              D               B               D               D               C                 MADHAV K MUTHA
+1RV16IM029           5.80              D               B               F               C               B                     MOHIT JAIN
+1RV16IM030           3.60              F               C               F               E               C                       MUHAMMED
+1RV16IM031           7.60              B               B               B               C               C                 NAGAPRATHAM PM
+1RV16IM032           4.60              E               D               D               F               C               NARAYANAM SISHIR
+1RV16IM033           6.00              D               C               C               E               D                      OORJA M P
+1RV16IM034           7.00              C               C               B               D               C                   PRANAV GUPTA
+1RV16IM035           7.40              B               B               B               D               C                     PRANOY PAL
+1RV16IM036           2.60              F               D               F               F               C                     PRATAP R N
+1RV16IM037           8.00              B               B               B               C               A                     RACHITHA L
+1RV16IM038           2.40              F               D              NE            NSSR               D                RAKSHAN J MALLI
+1RV16IM039           8.80              A               A               A               B               A                    RIHAN RAJAN
+1RV16IM040           6.40              E               B               B               E               B           RISHIKA DECHAMMA P J
+1RV16IM041           5.20              E               B               C               F               C                       RUTH VAZ
+1RV16IM042           7.80              D               B               A               C               A                    SIDDHARTH S
+1RV16IM043           7.20              C               B               A               E               B                   SANJAY VISSA
+1RV16IM044           7.60              D               A               A               D               B                      SATHWIK R
+1RV16IM045           6.00              E               B               D               E               B        SATISH RAMAKRISHNA BHAT
+1RV16IM046           2.40           NSSR               D               F            NSSR               D            SHA MUZAMMIL QUADRI
+1RV16IM047           9.20              A               S               A               A               A                         SHREYA
+1RV16IM048           8.40              B               A               A               B               B                  SHREYA MRIGEN
+1RV16IM049           7.20              C               B               C               D               B               SHREYASH S KALAL
+1RV16IM050           8.80              A               A               A               B               A                     SOURAV RAJ
+1RV16IM051           4.20              E               C               F               E               D                 SUCHETA HARISH
+1RV16IM052           8.00              D               A               B               A               B                 SUDEEKSHITHA G
+1RV16IM053           1.20           NSSR               F              AB            NSSR               D                  SURYA MANOJ P
+1RV16IM054           4.60              D               C               F               E               D                 VANGALA ROHITH
+1RV16IM055           7.40              B               B               C               D               B                  VANI SOUDAGAR
+1RV16IM056           2.60              F               D               F            NSSR               C                  VARUN S KUMAR
+1RV16IM057           7.60              C               B               B               D               A                  VINOD KUMAR R
+1RV16IM058           7.00              B               B               D               D               C          YASHOVARDHAN BHANDARI
+1RV16IM059           3.20              E               D               F               F               D                YOGESH SAMDARIA
+1RV16IM060           2.80              F               E               F               E               D                    ARCHANA B G
+1RV16IM061           7.20              C               C               C               C               B                 PRANAW AGRAWAL
+1RV16IM062           0.00           NSSR            NSSR            NSSR            NSSR            NSAR                SHARANG JANDIAL
+1RV16IM063           4.80              D               C               F               E               C                        TEJAS K

@@ -1,0 +1,53 @@
+USN                  SGPA        12HSI61          12IM62          12IM63          12IM64         12IME65         12IM6CX         12IM6DX                           NAME
+1RV14IM001           8.85              A               A               A               A               A               B               A                 AANCHAL NARULA
+1RV14IM002           8.00              B               B               B               B               B               B               B                  ABHAY A MANAY
+1RV14IM003           8.81              B               A               A               A               S               B               A              ADARSH M SHETTY B
+1RV14IM004           8.58              B               A               A               B               A               B               A          ADITYA SINGH RATHORE 
+1RV14IM005           9.27              A               S               A               A               B               S               A           AISHWARYA SHARANAPPA
+1RV14IM006           6.65              C               B               C               C               E               D               C                       AJAY W S
+1RV14IM007           8.65              B               S               B               B               B               A               A         ANAND SANJAY DEVARMANI
+1RV14IM008           7.62              B               B               B               C               D               B               B                 ANIRUDH G RAO 
+1RV14IM010           8.85              A               A               A               B               A               A               A               ANUSHKA BHANSALI
+1RV14IM011           9.50              A               S               S               A               A               A               S                     ARPITA P D
+1RV14IM012           8.54              A               A               A               B               A               C               A          A V R SUSHEEL CHANDRA
+1RV14IM013           7.31              C               B               C               C               C               C               B              BHUSHAN S MAIDALA
+1RV14IM014           7.50              C               B               B               C               C               C               B      DEEPTHI SAI M CHANDHAVAR 
+1RV14IM016           9.12              A               S               A               A               B               A               A                      GOWTHAM L
+1RV14IM017           8.92              A               A               A               A               B               A               A                        HAMSA S
+1RV14IM019           6.42              B               C               B               C               B               F               B            JAIN NISCHAY SANJAY
+1RV14IM020           8.54              A               A               A               B               A               C               A                  KEERTHAN B S 
+1RV14IM024           8.35              B               A               A               B               B               C               A                    M R DEEPTHI
+1RV14IM025           8.42              B               A               B               B               A               A               B                 MANISH SHANKAR
+1RV14IM026           8.73              B               A               A               B               A               A               A                  MANOJ SHANKAR
+1RV14IM027           7.96              B               B               B               B               B               C               A                 MD AFAAN AHMED
+1RV14IM028           8.85              A               A               A               A               A               B               A                      MEGHANA M
+1RV14IM029           8.15              B               A               B               B               B               C               A                     MONISH B S
+1RV14IM030           8.15              B               A               B               B               B               C               A           MOHAMMED ADNAN PASHA
+1RV14IM031           8.27              B               A               B               B               C               A               B               MUKUND S KUDLUGI
+1RV14IM032           7.27              B               B               B               C               D               B               D                  NAMAN DALMIA 
+1RV14IM033           8.08              B               A               B               B               C               C               A                      NAYANTARA
+1RV14IM034           8.35              B               A               B               B               B               A               B                NISCHAY AGARWAL
+1RV14IM035           8.65              A               A               B               B               A               A               A           PADAM KANT BHARADWAJ
+1RV14IM036           9.00              A               A               A               A               A               A               A             PAVITHRA SREEKUMAR
+1RV14IM037           8.65              A               A               A               B               B               A               B                   PRAKHAR DAGA
+1RV14IM039           8.31              A               A               B               B               B               B               B                 PRIYANK NAHATA
+1RV14IM041           7.62              B               B               B               C               C               C               B                      RIDHI S V
+1RV14IM042           5.38              C               C               D            NSSR               A               D               C                   RISHAV MITRA
+1RV14IM043           9.27              A               S               A               A               S               A               A              ROHIT KUMAR PARHI
+1RV14IM044           7.96              C               B               B               B               A               B               B          RUCHIKA SHIVA SHANKAR
+1RV14IM045           6.27              C               B               F               B               C               B               B       SAMEER HARISH CHITRAGAR 
+1RV14IM047           7.50              B               B               B               C               D               B               C                 SARVESH GILADA
+1RV14IM048           8.77              B               A               A               A               B               B               S                 SHALINEE GHOSH
+1RV14IM050           7.31              B               B               B               C               C               D               B                     SHREYAS S 
+1RV14IM051           6.46              D               B               B               C               E               E               C               SHRIRANG AGARWAL
+1RV14IM052           7.19              C               B               C               C               C               C               C                    SPARSH GARG
+1RV14IM053           8.69              B               A               B               B               A               S               A               SUSHMA JAGANNATH
+1RV14IM054           8.81              B               A               A               A               B               A               A                    VAISHNAVI R
+1RV14IM055           8.96              A               S               A               A               B               B               A                 VARUN SREEDHAR
+1RV14IM056           8.50              B               A               A               B               B               B               A                    VIBHOR KALA
+1RV14IM058           8.50              B               A               A               B               B               B               A                    VINUTHA B M
+1RV14IM059           8.31              B               B               A               B               B               B               A                  VISHWAL MOOGI
+1RV14IM060           4.65              E               C               C            NSSR               E               E               D                   WASIM ASHROF
+1RV14IM062           6.54              B               B               B            NSSR               C               C               B                 SUNIDHI SINGH 
+1RV14IM063           7.81              C               B               B               B               A               C               B               TANISH M PHUTANE
+1RV14IM064           7.35              C               B               B               C               D               C               B                  SUMAIYA CHAND

@@ -1,0 +1,64 @@
+USN                  SGPA        16MA21C          16CH22          16CS23          16EC24          16ME25                           NAME
+1RV16AS001           7.00              A               C               B               E               C                ABHILASH BAROOR
+1RV16AS002           4.40              E               C               F               E               C                 ABHINAV MAHESH
+1RV16AS003           8.60              A               A               A               B               B                 ADARSH AGRAWAL
+1RV16AS004           7.20              B               C               B               D               C                ADITYA VEDANTHU
+1RV16AS005           0.80           NSSR               E            NSSR               F               F               AJINKYA KULKARNI
+1RV16AS006           9.00              S               S               A               C               A                   ANAGHA G RAO
+1RV16AS007           8.80              S               A               A               B               B                 ANAGHA S GOWDA
+1RV16AS008           9.20              S               A               B               S               A                    ARPIT YADAV
+1RV16AS009           8.20              A               A               B               C               B               ARPITHA L RATHOD
+1RV16AS010           7.80              C               A               B               C               B                     ASHITA RAJ
+1RV16AS011           4.00              E               D               E            NSSR               D                   B N BIDDAPPA
+1RV16AS012           3.40              E               C               F               F               D                   CHIDANANDA M
+1RV16AS013           8.40              B               A               A               B               B                       DEVIKA R
+1RV16AS014           4.60              D               C               D               E               F            DURBHA MAITRA VARUN
+1RV16AS015           8.40              S               B               A               C               B                 GUNJAN JAVARIA
+1RV16AS016           5.40              C               C              AB               D               C          HARI KRISHNA RAJU T S
+1RV16AS017           7.60              A               B               B               D               C               HARSHAVARDHANA M
+1RV16AS018           4.00              C               C               F               F               D            HRITHIK ANAND HARDI
+1RV16AS019           6.40              C               B               D               E               C                    JAGADEESH S
+1RV16AS020           1.20              F               D              AB               F               F              JASON ALSTON REGO
+1RV16AS021           7.20              C               B               C               D               B                    JAYANTH G P
+1RV16AS022           8.20              A               B               B               B               B          JAYARAJ NARAYAN MOGER
+1RV16AS023           8.20              A               B               B               B               B             K B BHEEMANA GOWDA
+1RV16AS024           8.00              A               B               B               C               B                    KARTHIK B V
+1RV16AS025           9.20              S               A               A               A               A                      KARTHIK M
+1RV16AS026           7.00              A               D               C               D               C                 KAUSTAV KISHOR
+1RV16AS027           6.00              C               C               D               E               D                       LIPIKA M
+1RV16AS028           7.80              A               B               B               D               B                     MODIT JAIN
+1RV16AS029           2.80              E               D               F               E               F                     M S HITESH
+1RV16AS030           5.60              B               B               F               E               B                  NAINA BIRADAR
+1RV16AS031           6.60              B               C               C               E               C                 NAYANA H GOWDA
+1RV16AS032           7.20              C               C               C               C               B                        POOJA S
+1RV16AS033           8.60              A               A               A               C               A            PRADYUMNA BHANDIWAD
+1RV16AS034           7.40              A               A               C               E               B               PRATISHTHA RAWAT
+1RV16AS035           1.20           NSSR            NSSR            NSSR            NSSR               D              PREKSHA SANGVIKAR
+1RV16AS036           7.80              A               B               A               D               C                RACHNA DANDWANI
+1RV16AS037           8.20              A               B               B               B               B                        RAHUL P
+1RV16AS038           3.20              D               D               F               E               F            RAKSHITH VISHWANATH
+1RV16AS039           9.20              S               A               A               A               A        ROHAN BRIJMOHAN AGARWAL
+1RV16AS040           0.00           NSSR            NSSR              AB            NSAR            NSSR          RUTVIK BHASKAR PEREPA
+1RV16AS041           9.00              S               A               B               A               A             RYAN XAVIER DSOUZA
+1RV16AS042           7.40              A               B               D               C               C                          SAGAR
+1RV16AS043           7.20              B               C               C               D               B                         SAKSHA
+1RV16AS044           7.20              B               A               C               E               B                 SAKSHI BALIYAN
+1RV16AS045           6.20              C               D               C               E               C                    SAMARTH G S
+1RV16AS046           9.00              S               A               B               A               A SAMEEKSHA SATYAJIT GIRIDHAR RA
+1RV16AS047           9.00              S               A               A               B               A                SANJUKTA MANDAL
+1RV16AS048           3.80              D               D               F            NSSR               C              SATHYANARAYANAN S
+1RV16AS049           5.40              C               C               C               F               D             SHIBA SHIVAPRAKASH
+1RV16AS050           8.80              S               A               A               B               B                     SHREESHA M
+1RV16AS051           6.40              B               D               B               E               D                    SHREYAS G S
+1RV16AS052           8.40              S               A               B               C               B              SHREYAS J SUVARNA
+1RV16AS053           6.60              B               C               C               E               C              SHRISHARSHA PATIL
+1RV16AS054           6.60              C               C               C               E               B       SHRIKANYA MANJUNATH SHET
+1RV16AS055           7.40              A               C               B               D               C                       SINDHUJA
+1RV16AS056           0.80              E               F            NSSR            NSSR               F                       SUMA A N
+1RV16AS057           7.40              B               B               C               D               B                    SUMANTH R M
+1RV16AS058           1.20           NSSR            NSSR               D            NSSR            NSSR                  TABBISH ABASS
+1RV16AS059           8.40              S               B               A               C               B                  TANVEER AHMED
+1RV16AS060           8.40              A               A               B               B               B                THAMIM ANSARI H
+1RV16AS061           8.00              S               B               B               C               C                VAIBHAV MAHAWAR
+1RV16AS062           4.60              D               C            NSSR               E               D                    WAFA ANSARI
+1RV16AS063           6.60              C               B               D               D               D                   YASHASWINI K

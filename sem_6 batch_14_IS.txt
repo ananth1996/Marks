@@ -1,0 +1,61 @@
+USN                  SGPA        12HSM61          12IS62          12IS63          12IS64         12ISE65         12IS6CX         12IS6DX                           NAME
+1RV14IS001           8.92              A               B               A               A               S               A               A                   ABHISHEK J M
+1RV14IS002           6.77              B               F               B               B               B               B               B                     ABHISHEK S
+1RV14IS003           8.92              A               B               A               A               S               A               A                  ADITYA VIKRAM
+1RV14IS004           8.19              A               B               B               B               A               B               B                AKANKSHA SHREYA
+1RV14IS005           6.12              B               F               C               C               B               C               C            AKSHATA BABU HEGADE
+1RV14IS007           8.77              A               B               A               A               S               B               A                      ANIKETH W
+1RV14IS008           8.04              B               B               B               A               B               C               B                ANIRUDDHA K RAO
+1RV14IS009           8.04              A               C               B               B               A               B               B                      ARPITHA U
+1RV14IS011           8.12              A               C               B               B               S               B               B             DEEPANKSHA DHINGRA
+1RV14IS012           8.92              A               B               A               A               S               A               A               HARIPRIYA RAMESH
+1RV14IS013           9.08              A               B               A               A               S               S               A       HARSHA NARENDRA KULKARNI
+1RV14IS014           8.19              A               C               B               B               A               A               B                 JESSICA SMRITI
+1RV14IS015           9.46              S               A               A               A               S               S               S           KHADIJA TAHER ZAVERY
+1RV14IS016           8.42              A               B               B               B               A               B               S              KRISHANU TAKHTANI
+1RV14IS018           8.85              A               B               A               A               A               A               A            M SANATH SHANBHOGUE
+1RV14IS019           8.15              A               B               B               B               A               C               A         M VENKATA SURYA VAMSHI
+1RV14IS020           8.92              A               B               A               A               S               A               A                MANASWINI SWAMY
+1RV14IS021           8.23              A               C               B               B               S               B               A                    MANJUNATH B
+1RV14IS022           9.04              A               B               A               A               S               A               S                    MAYANK JAIN
+1RV14IS023           6.08              X               C               B               B               A               B               X                      NISHITA H
+1RV14IS024           9.19              S               B               A               A               S               S               A                NISHITA R HEGDE
+1RV14IS025           8.92              A               B               A               A               S               A               A             NITHIN KARTHIK R N
+1RV14IS026           8.85              A               B               A               A               A               A               A                 NIVEDITA NIGAM
+1RV14IS027           6.58              A               F               B               C               B               B               C                 PAVAN HIREMATH
+1RV14IS028           5.08              B               F               B               F               B               C               B                  PRADYUMNA A N
+1RV14IS029           8.69              A               B               A               A               A               B               A            PRAKASH KUMAR SINGH
+1RV14IS030           8.58              A               C               A               B               S               A               A                 PRANAV SHANKAR
+1RV14IS032           8.85              A               B               A               A               A               A               A                PRIYANK AVIJEET
+1RV14IS034           7.15              B               B               B               B               A               B               X              RAMYA KEERTHANA R
+1RV14IS035           8.85              A               B               A               B               S               A               S      SACHEEN MAHADEV HULAJATTI
+1RV14IS036           6.31              C               F               B               B               C               C               C                SAMARTH V GOWDA
+1RV14IS038           9.27              A               A               A               A               A               S               S                   SANJANA SURI
+1RV14IS040           8.77              A               B               A               A               S               B               A           SATISH KUMAR AGARWAL
+1RV14IS041           8.31              A               B               B               B               A               B               A                 SAURAV ANCHLIA
+1RV14IS044           8.73              A               B               A               B               S               A               A           SHARDINDU KANT SUMAN
+1RV14IS045           8.65              A               C               A               A               S               A               B                      SHRAVYA K
+1RV14IS046           8.58              A               B               A               B               S               B               A                  SHREYANS JAIN
+1RV14IS047           6.35              B               C               F               B               A               C               A                    SHREYAS S B
+1RV14IS048           8.54              A               C               A               A               A               B               A                   SHUBHAM GOEL
+1RV14IS050           8.69              A               B               A               A               A               B               A                  SIMRAN TANEJA
+1RV14IS051           7.12              A               C               B               B               A               B               X                       SIMRAN B
+1RV14IS052           8.19              A               C               B               B               A               A               B                     SRINIVAS R
+1RV14IS053           8.46              A               B               B               B               A               A               A              SRISHANKAR SUNDAR
+1RV14IS054           8.65              B               C               A               A               S               A               A                 SURESH N NAYAK
+1RV14IS055           8.58              A               B               A               B               S               B               A                 TANYA CHAWLANI
+1RV14IS057           8.31              A               C               A               B               B               A               B                UDITH SHANKAR M
+1RV14IS058           9.19              S               A               A               A               S               A               A                VAISHNAVI SINGH
+1RV14IS059           5.23              D               F               C               B               A               C               F                     VARSHA V S
+1RV14IS060           7.27              B               C               A               B               B               A               X                      VINUTHA M
+1RV14IS061           8.00              B               C               B               B               B               A               B                   VISHAK UDUPA
+1RV14IS062           9.08              A               A               A               A               S               A               A                 RACHIT LOSALKA
+1RV14IS063           8.85              A               B               A               A               A               A               A               SOORAJ BHARADWAJ
+1RV14IS064           8.96              A               B               A               A               A               A               S                  HARSH AGARWAL
+1RV14IS065           9.19              A               B               A               A               S               S               S                  AABHAS MATHUR
+1RV14IS066           8.85              A               B               A               A               A               A               A             ANVESHA SRIVASTAVA
+1RV14IS067           8.85              A               B               A               A               A               A               A                     SURAVI DAS
+1RV14IS068           9.54              A               A               A               S               S               S               S                      SAMRUDH J
+1RV14IS069           8.85              A               B               A               A               A               A               A PERUR VANAPARTHI DEEPTHI KRISH
+1RV14IS070           9.19              A               A               A               A               S               A               S               PARIDHI MOHINDRA
+1RV14IS071           9.65              S               A               S               A               S               S               S                   KANCHU KIRAN

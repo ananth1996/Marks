@@ -1,0 +1,62 @@
+USN                  SGPA         12IS81          12IS82         12HSS83                           NAME
+1RV13IS001          10.00              S               S               S                  ABHISHEK BAWA
+1RV13IS002           9.10              A               S               S                 ABHISHEK GUPTA
+1RV13IS003           9.95              S               S               A                      AHANA S G
+1RV13IS004           9.00              A               S               B                    AKASH SUMAN
+1RV13IS005          10.00              S               S               S                  AMITH RAJ S N
+1RV13IS006           9.10              A               S               S                AMITHESH RAMESH
+1RV13IS007           9.10              A               S               S                      ANAND G M
+1RV13IS008           9.10              A               S               S                 ANIRUDH NAGRAJ
+1RV13IS009           9.05              A               A               S                    ANKIT KUMAR
+1RV13IS010           9.05              A               A               S                    ANKIT KUMAR
+1RV13IS011          10.00              S               S               S             ANUSH SAVIO DSOUZA
+1RV13IS012          10.00              S               S               S                  ASHWIN SHARMA
+1RV13IS013           9.00              A               S               B                       BHAVYA P
+1RV13IS014           9.00              A               S               B         DEEPA ASHOK VARAMBALLY
+1RV13IS015          10.00              S               S               S              DIVYANSHU KAKWANI
+1RV13IS016           9.00              A               A               A                    FAHAD HAMZA
+1RV13IS017           9.00              A               S               B                         GANA D
+1RV13IS018          10.00              S               S               S           H SRAVAN KUMAR REDDY
+1RV13IS019          10.00              S               S               S              HARSHITA P BORKAR
+1RV13IS020           9.05              A               S               A         HARSHITHA KANAKAMEDALA
+1RV13IS021           9.90              S               S               B                HASMUKH KUMAR S
+1RV13IS022           9.90              S               A               A                     K SANGHAVI
+1RV13IS023          10.00              S               S               S                      KARTHIK P
+1RV13IS024           9.95              S               S               A                     KAVYA BHAT
+1RV13IS025          10.00              S               S               S                      KAVYA H L
+1RV13IS027          10.00              S               S               S                KRITHIKA D BHAT
+1RV13IS028          10.00              S               S               S                   KUNAL GAUTAM
+1RV13IS029          10.00              S               S               S                      SHREYAS M
+1RV13IS030           9.95              S               S               A                      MADHURI V
+1RV13IS031           9.10              A               S               S                MITUL SINGHANIA
+1RV13IS032          10.00              S               S               S             MOHIT NARAYAN SHAH
+1RV13IS033           9.10              A               S               S                  MOKSHA BINDRA
+1RV13IS034           9.90              S               S               B                       MONIKA C
+1RV13IS035           9.00              A               S               B                 MONISHA K NAIK
+1RV13IS036           9.95              S               A               S                   NAMRATHA M K
+1RV13IS037          10.00              S               S               S                 NIKHITA THAKUR
+1RV13IS038           9.10              A               S               S                      NIRAJ N B
+1RV13IS039           9.05              A               A               S                NISHANT SHEKHAR
+1RV13IS040           9.95              S               A               S                      POOJA J N
+1RV13IS041           9.10              A               S               S                    PRADEEP V R
+1RV13IS042          10.00              S               S               S                 PUNITH P PATIL
+1RV13IS044          10.00              S               S               S                    SAMHITH G B
+1RV13IS045           9.05              A               A               S       SANDEEP MAHANTESH SAJJAN
+1RV13IS046           9.10              A               S               S                   SARANG GUPTA
+1RV13IS047          10.00              S               S               S                  SAURAV SIRCAR
+1RV13IS048           9.10              A               S               S                       SHARAN M
+1RV13IS050           9.10              A               S               S                 SHRUTI NAMBIAR
+1RV13IS051           9.95              S               A               S                  SHRUTI SHINDE
+1RV13IS052          10.00              S               S               S                  SHWETHA RAO K
+1RV13IS053          10.00              S               S               S               SIDDHARTH SATISH
+1RV13IS054           9.10              A               S               S                       SOMESH R
+1RV13IS055          10.00              S               S               S                     SUMUKH S S
+1RV13IS058          10.00              S               S               S                  TWINKLE TANNA
+1RV13IS059          10.00              S               S               S                   UTKARSH JAIN
+1RV13IS060          10.00              S               S               S                  VARSHA B JAIN
+1RV13IS061          10.00              S               S               S              VARUN KASHYAP C V
+1RV13IS063           9.10              A               S               S                   VISHAL SAGAR
+1RV13IS064           9.10              A               S               S                    ROHIT KUMAR
+1RV13IS065          10.00              S               S               S         PRABHJEET SINGH CHAWLA
+1RV13IS066          10.00              S               S               S                  SAANDEEPA T N
+1RV13IS067           9.10              A               S               S                    RAHUL SINGH

@@ -1,0 +1,40 @@
+USN                  SGPA         12BT81          12BT82         12HSS83                           NAME
+1RV13BT001           9.05              A               S               A                  ABHIJEET SALI
+1RV13BT002           9.05              A               A               S                    AIYAPPA M P
+1RV13BT003           9.10              A               S               S         AMITHA SUPRAGNA SANDUR
+1RV13BT004          10.00              S               S               S                  ANJALI SHENOY
+1RV13BT006           9.00              A               A               A                 ANUSHA KISHORE
+1RV13BT009          10.00              S               S               S               ASHWINI RANGARAJ
+1RV13BT010          10.00              S               S               S              BHARGAV D SANKETI
+1RV13BT011           9.10              A               S               S                  BHAVYA JOJANE
+1RV13BT012          10.00              S               S               S                CHANDAN M REDDY
+1RV13BT013           9.00              A               A               A              CHINMAY S GUDIGAR
+1RV13BT014           9.05              A               A               S                  HARSHITHA H I
+1RV13BT015          10.00              S               S               S                   JIVIKA SAGAR
+1RV13BT017           9.10              A               S               S                 KRUTIKA PHADKE
+1RV13BT018           9.05              A               A               S                       KUSHAL N
+1RV13BT020           9.05              A               A               S                MAHWASH ASHRAFF
+1RV13BT021           9.05              A               A               S                MOHAMMED JUNAID
+1RV13BT022          10.00              S               S               S                    N S KEERTHI
+1RV13BT024           9.00              A               A               A                    NALINI RAVI
+1RV13BT025          10.00              S               S               S                       NIKITA J
+1RV13BT026           9.10              A               S               S                  NISHITA R RAO
+1RV13BT031           9.10              A               S               S                  PREETHAM HARI
+1RV13BT032           9.10              A               S               S                         PRIYAM
+1RV13BT033           9.05              A               A               S                        RAMYA B
+1RV13BT034           8.10              B               A               A                   REETEE DIXIT
+1RV13BT037           9.10              A               S               S                      SADHANA S
+1RV13BT038           8.15              B               A               S                       SAHANA R
+1RV13BT039           9.10              A               S               S                 SAKSHI AGRAWAL
+1RV13BT041           9.10              A               S               S                   SANCHI AHUJA
+1RV13BT042           9.05              A               S               A                  SANHITA GHOSH
+1RV13BT043           9.10              A               S               S                  SAYANTANI DAS
+1RV13BT044          10.00              S               S               S                  SHARADA GOPAL
+1RV13BT045          10.00              S               S               S                     SHARANYA R
+1RV13BT046          10.00              S               S               S                  SHREE PADMA M
+1RV13BT048          10.00              S               S               S                 SIMRAN A SINGH
+1RV13BT050           9.10              A               S               S            SRIYA SRIRANGARAJAN
+1RV13BT051           9.10              A               S               S                  SUHAS GOWDA N
+1RV13BT053           9.10              A               S               S                    VAISHNAVI B
+1RV13BT054           9.10              A               S               S                  VANDANA VIJAI
+1RV13BT055           9.00              A               A               A             VINEETH HARIPRASAD

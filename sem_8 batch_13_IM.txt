@@ -1,0 +1,46 @@
+USN                  SGPA         12IM81          12IM82         12HSS83                           NAME
+1RV13IM001          10.00              S               S               S               ADITHYA SRINIVAS
+1RV13IM002           9.90              S               S               B               AISHWARYA SAXENA
+1RV13IM003          10.00              S               S               S               AMRUTHI AEBARE V
+1RV13IM004          10.00              S               S               S                 ANUSHA R SWAMY
+1RV13IM005           8.15              B               A               S               BASAVARAJ R KURI
+1RV13IM006           8.10              B               A               A                     BASAVARAJA
+1RV13IM007          10.00              S               S               S                 C UDAYALAKSHMI
+1RV13IM008           8.15              B               A               S                   CHANNABASAVA
+1RV13IM009           9.90              S               A               A            DHWANI SUNKU GIRISH
+1RV13IM012          10.00              S               S               S               HARSHITA U KUMAR
+1RV13IM014           9.95              S               A               S              MD.SHAHID SARFRAZ
+1RV13IM015           9.95              S               S               A                    MEGHASREE V
+1RV13IM016          10.00              S               S               S                  MUEEZ AHMED A
+1RV13IM018          10.00              S               S               S                       N SUMANT
+1RV13IM019           9.10              A               S               S               NAGA GAUTHAM P P
+1RV13IM021          10.00              S               S               S            NIDHI PRADEEP KUMAR
+1RV13IM023          10.00              S               S               S           NIKHITA UMESH BHUSHI
+1RV13IM024          10.00              S               S               S                  NISHANT JOSHI
+1RV13IM025           9.00              A               S               B                   PANKAJ KUMAR
+1RV13IM026          10.00              S               S               S                 PAVITRA TAGORE
+1RV13IM027           9.10              A               S               S                     POOJA GIRI
+1RV13IM028           9.05              A               A               S              POORNAJITH SHETTY
+1RV13IM031           9.90              S               S               B         PRATIKA PRAMOD PURANIK
+1RV13IM032           9.05              A               A               S                      PREETHA J
+1RV13IM033          10.00              S               S               S                 PROGYA PARMITA
+1RV13IM034          10.00              S               S               S                RAHUL SRISRIMAL
+1RV13IM035           9.90              S               A               A                    RAKSHITHA R
+1RV13IM036           9.95              S               S               A                RUCHIKA AGARWAL
+1RV13IM037          10.00              S               S               S                    S R SANJANA
+1RV13IM038           8.95              A               A               B                        SAGAR C
+1RV13IM039           8.15              B               A               S          SANDEEP RAMESH INGALE
+1RV13IM040           8.95              A               A               B                    SANJITH K S
+1RV13IM042          10.00              S               S               S                 SHASHANK RAMAN
+1RV13IM043          10.00              S               S               S                 SHIVANI SHUKLA
+1RV13IM044           9.00              A               A               A            SHOBITA C FERNANDEZ
+1RV13IM047           9.05              A               A               S                  SPOORTI UPPIN
+1RV13IM048          10.00              S               S               S                SUCHET R BALKAL
+1RV13IM052           9.10              A               S               S               VARSHIK M SUNDER
+1RV13IM054           9.95              S               S               A                        VIBHA C
+1RV13IM057           8.95              A               A               B            YASH VARDHAN CHOYAL
+1RV13IM058           8.95              A               A               B                   YASHNA SHINE
+1RV13IM059           9.95              S               A               S                  NAVIN KISHORE
+1RV13IM060           9.10              A               S               S                   ARIHANT JAIN
+1RV13IM061           9.10              A               S               S                  YASH SHRIMALI
+1RV13IM062           9.10              A               S               S                SHYAMAPRIYA DEY

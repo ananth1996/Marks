@@ -1,0 +1,41 @@
+USN                  SGPA        16MA21P          16PH22          16CV23          16ME24          16EE25         16HSC26                           NAME
+1RV16CH001           7.08              B               C               B               A               C               F                AKANKSHA SHETTY
+1RV16CH002           6.56              D               C               D               A               D               D               AKASH G KULKARNI
+1RV16CH003           9.32              S               A               S               A               A               B                      AKHIL N V
+1RV16CH004           8.56              S               A               B               A               B               D                    ANIRUDDHA S
+1RV16CH005           4.32              E               D               E               B               F               C             ASHISH JOHN THOMAS
+1RV16CH006              0           NSAR            NSAR            NSAR            NSSR            NSAR            NSAR               ASHWIN VASUDEVAN
+1RV16CH007           8.24              A               B               A               A               C               C                       AYAN DAS
+1RV16CH008           8.12              A               B               A               A               D               B          FARAAZ MOHAMMED IKRAM
+1RV16CH009              0           NSAR            NSAR            NSAR            NSAR            NSAR            NSSR                      GIREESH N
+1RV16CH010           9.04              S               A               B               S               A               B                HARSHIT RATHORE
+1RV16CH011            2.6           NSSR               D               F               A               F               E                       K ANUSHA
+1RV16CH012           5.52              C               D               E               C               E               D   KALAKOTA HARSHAVARDHAN REDDY
+1RV16CH013           2.96              E               D               F               B               F               F              MRUNALINI S GOWDA
+1RV16CH014           8.52              S               A               B               B               B               C                   P PRERAN RAO
+1RV16CH015           8.12              A               B               B               A               C               B                  PRANJAL ANAND
+1RV16CH016           8.64              S               B               A               A               B               C                 PRATYUSH KUMAR
+1RV16CH017           5.16              F               D               D               A               D               D                DEEPAK PRASAD R
+1RV16CH018           5.36              D               C               F               A               D               D                        RAHUL O
+1RV16CH019           6.92              C               C               D               B               C               C              RAJANIKANT LAMANI
+1RV16CH020           3.28           NSAR               D               E              NE               E               D                   RICHA MISHRA
+1RV16CH021           7.44              C               B               B               B               C               D           RISHAB KARAMCHANDANI
+1RV16CH022           7.84              B               B               B               A               C               C                     RITHISHA M
+1RV16CH023           7.04              B               C               B               D               C               E              SARTHAK MANCHANDA
+1RV16CH024              0           NSSR            NSSR              AB              AB            NSSR              AB         SHANKARAYYA S RUDRAPUR
+1RV16CH025           4.36           NSAR               D               C               B               E               F                      SHREYAS M
+1RV16CH026           1.76              F            NSSR               E               B               F               F                 SHREYASH RATHI
+1RV16CH027           7.76              B               B               B               A               C               D                        SNEHA S
+1RV16CH028           7.16              C               C               C               A               C               D            SOLANKI PRASAD AMAR
+1RV16CH029           8.72              A               A               A               B               A               C               SUBHASHISH YADAV
+1RV16CH030           7.16              C               D               B               A               C               D                      SUHAS K S
+1RV16CH031           7.84              B               C               B               A               B               C                          SUMAN
+1RV16CH032           4.36              E               D               F               A               E               D                     TEJAS JOSE
+1RV16CH033           1.28           NSAR               F               F               B            NSSR               E               TEJAS PARTHA RAO
+1RV16CH034           7.04              B               D               B               B               D               D              VEERBHADRA SHARMA
+1RV16CH035           3.16              E               D               F               C               F               E                VIDIYALA SHREYA
+1RV16CH036           7.96              A               C               B               A               B               D        VIKRAM RAGAHAVENDRA RAO
+1RV16CH037           7.92              A               C               A               B               C               C                 VIVEK CHANDRAN
+1RV16CH038           6.32              D               C               C               C               D               D               YASH RAJESH BHAT
+1RV16CH039           7.24              C               C               C               A               C               C                ZAKIYA TABASSUM
+1RV16CH040           5.56              D               D               C               C               E               E                        SUMAN C

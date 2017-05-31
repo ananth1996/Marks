@@ -1,0 +1,42 @@
+USN                  SGPA         12TE81          12TE82         12HSS83                           NAME
+1RV13TE001           9.05              A               A               S                     ABHISHEK H
+1RV13TE002           9.00              A               A               A                     ABHISHEK P
+1RV13TE003           9.05              A               A               S                        AKASH D
+1RV13TE006           9.95              S               A               S                    ARPITHA K S
+1RV13TE007          10.00              S               S               S                     ASHWIN K P
+1RV13TE009           9.00              A               A               A                    B M ADARSHA
+1RV13TE010           9.05              A               A               S            BEENA B KSHEERSAGAR
+1RV13TE011           9.00              A               A               A       DAANISH MOHAMMED SHARIFF
+1RV13TE012           9.05              A               A               S                     DEEPAK T M
+1RV13TE013           9.90              S               A               A                    DIVYA HEGDE
+1RV13TE014           9.05              A               A               S                      G B MADHU
+1RV13TE015           8.95              A               A               B                   GOUTAM HEGDE
+1RV13TE016          10.00              S               S               S                      GOUTHAM M
+1RV13TE018          10.00              S               S               S                    HARSHITHA M
+1RV13TE019          10.00              S               S               S             JAIN SAMARTH NITIN
+1RV13TE020           9.05              A               A               S                   KAMNA KUMARI
+1RV13TE021           9.95              S               A               S               KEERTHI A MIKKAL
+1RV13TE022           9.05              A               A               S                      KISHORE M
+1RV13TE023           9.00              A               A               A                  KISHORKUMAR K
+1RV13TE024           8.95              A               A               B              LAKSHMI KANTH M C
+1RV13TE025          10.00              S               S               S                     LEKANA C L
+1RV13TE026           9.95              S               A               S                   M K CHANDANA
+1RV13TE027           9.90              S               B               S                   M SARASWATHI
+1RV13TE031          10.00              S               S               S                     NIKHIL G V
+1RV13TE032           7.70              B            NSSR               S              NIMISH SRIVASTAVA
+1RV13TE033           9.85              S               A               B             NUPUR KRISHNA NETI
+1RV13TE038           9.05              A               A               S                    RADHIKA RAO
+1RV13TE040           9.95              S               A               S              RASHMI NAMBIAR PP
+1RV13TE042           9.05              A               A               S                    SALIL KUMAR
+1RV13TE043           9.05              A               A               S                  SANJANA GUPTA
+1RV13TE046          10.00              S               S               S        SHARMILA KISHORE KUMBLE
+1RV13TE047           9.05              A               A               S               SHREELAKSHMI K P
+1RV13TE048          10.00              S               S               S          SHREYA VISWANATH BASU
+1RV13TE049           9.05              A               A               S                  SHUBHAM GUPTA
+1RV13TE051           9.95              S               A               S                   SUMANA P RAO
+1RV13TE053           8.75              A               A               E                  SURYA PRAKASH
+1RV13TE056          10.00              S               S               S                 UTKARSH SAXENA
+1RV13TE058           9.05              A               A               S                    VAIBHAV B P
+1RV13TE059           8.90              A               B               B                  VIKRANT HEGDE
+1RV13TE061           9.90              S               B               S                  VISHNU G NAIK
+1RV13TE063           9.95              S               A               S            POORNIMA N SHANBHAG
