@@ -1,0 +1,188 @@
+USN                  SGPA        12HSI51          12CS52          12CS53          12CS54         12CS5AX         12CS5BX                           NAME
+1RV15CS001           9.15              A               B               S               A               S               A  A S KARTHIK SAI VISHNU KUMAR 
+1RV15CS002           9.08              B               A               S               A               A               A               AAKANKSHA ASHOK 
+1RV15CS003           8.27              A               C               A               B               A               B            AARON PAUL D SOUZA 
+1RV15CS004           7.46              B               C               C               B               B               C                 AATMAN MANTRI 
+1RV15CS005           8.19              B               C               A               A               B               B                    ABHINITH A 
+1RV15CS006           8.69              B               B               A               A               A               A               ABHISHEK HONDAD 
+1RV15CS007           8.88              B               A               A               A               A               A              ABHISHEK KRISHNA 
+1RV15CS008           5.38              D               D               B            NSSR               B               C                 ABHISHEK KUMAR
+1RV15CS009           8.85              A               A               A               A               B               A              ABHISHEK NADIGER 
+1RV15CS010           7.65              B               C               B               B               B               C                  ADARSH REDDY 
+1RV15CS011           8.69              B               B               A               A               A               A             ADITYA AJIT HEGDE 
+1RV15CS013           9.54              A               A               S               S               S               A             ADITYA GIRIDHARAN 
+1RV15CS014           8.85              B               B               A               A               S               A                ADITYA KISHORE 
+1RV15CS015           8.31              A               C               A               A               B               B           ADITYA RAVICHANDRAN 
+1RV15CS016           7.96              B               C               B               B               A               B                  ADITYA SINGH 
+1RV15CS017           9.00              A               A               A               A               A               A            AISHWARYA HIREMATH 
+1RV15CS018           8.69              B               B               A               A               A               A             AKARSHITA SHANKAR 
+1RV15CS019           8.88              B               B               S               A               A               A                  AKHIL PRASAD 
+1RV15CS020           7.65              B               C               B               B               B               C              AKHIL R KOTHAKOTA
+1RV15CS021           7.08              B               E               B               B               B               C                  AKSHIT JHAMB 
+1RV15CS022           8.69              B               B               A               A               A               A              ALLBRIGHT DSOUZA 
+1RV15CS023           5.65              B               D               C               C               C               F                  AMAN AGARWAL 
+1RV15CS024           8.69              B               B               A               A               A               A            AMIT N SUBRAHMANYA 
+1RV15CS025           8.54              B               B               A               A               A               B                        AMIT P 
+1RV15CS026           9.27              B               A               S               S               A               A                  ANIRUDH HEDA 
+1RV15CS027           8.54              B               B               A               A               A               B                   ANIRUDH K M 
+1RV15CS028           8.19              B               C               A               A               B               B                   ANISH DUTTA 
+1RV15CS029           8.54              B               B               A               A               A               B               ANOOP DARSHAN R 
+1RV15CS030           8.50              A               B               A               A               B               B              ANSHUL V AGRAWAL 
+1RV15CS031           9.23              B               A               S               A               S               A                   APEKSHA K P 
+1RV15CS032           8.19              B               B               A               B               B               B                   ARAVIND B S 
+1RV15CS033           7.81              B               C               B               B               B               B    ARAVIND KUMAR BALARAVIKUMAR
+1RV15CS034           8.92              B               A               S               A               A               B           ARAVIND SUDARSHAN A 
+1RV15CS035           8.88              B               B               S               A               A               A                ARAVIND VARIER 
+1RV15CS036           7.81              B               C               B               B               B               B               ARJUN SHREYAS C 
+1RV15CS037           7.46              B               C               C               B               B               C            ARUNACHALAM SURESH 
+1RV15CS038           9.04              A               A               S               A               A               B                  ASHMITA RAJU 
+1RV15CS039           8.88              B               A               A               A               A               A         ASHUTOSH UTPAL GANDHI 
+1RV15CS040           7.04              B               E               C               B               B               B           AVINASH B SOPPIMATH 
+1RV15CS041           9.00              A               A               A               A               A               A                AYUSHI AGARWAL 
+1RV15CS042           8.38              B               B               A               A               B               B          B C SIDDHU SIDDHARTH 
+1RV15CS043           8.46              A               B               A               B               A               B                      B SINDHU 
+1RV15CS044           9.69              A               A               S               S               S               S              BALAJI VIGNESH K 
+1RV15CS045           8.27              A               C               A               B               A               B    BOMMANA RAVI SHANKAR REDDY 
+1RV15CS046           8.88              B               B               S               A               A               A                CHAITHANYA H R 
+1RV15CS047           8.69              B               B               A               A               A               A                  CHANNABASAWA 
+1RV15CS048           8.69              B               B               A               A               A               A                   CHETHAN K P 
+1RV15CS049           5.96              C               E               C               C               C               E DATLA VENKATA SATYA KRISHNA RA
+1RV15CS050           8.08              C               C               A               A               C               A               DIVYANSHI GUPTA 
+1RV15CS051           7.54              C               C               B               B               B               C                 DUSHYANTH N M 
+1RV15CS052           8.50              A               B               A               A               B               B           G JAYA PRASAD REDDY 
+1RV15CS053           8.85              A               A               S               B               B               A                  GAGAN DEEP G 
+1RV15CS054           9.00              A               A               A               A               A               A        GANESHPRASAD R BIRADAR 
+1RV15CS056           8.81              A               B               A               A               A               A              GOURISH K BIRADAR
+1RV15CS057           8.35              A               B               A               A               B               C                    GOVIND N V 
+1RV15CS058           9.15              A               B               S               A               S               A GOWDUCHERUVU VISHNUSAINATHREDD
+1RV15CS059           8.50              A               B               A               A               B               B                  HARSH MISHRA 
+1RV15CS060           8.31              A               B               B               A               B               B            HARSH SANJEEV TULI 
+1RV15CS061           7.96              A               B               C               A               B               C              HARSH SRIVASTAVA 
+1RV15CS062           6.23              B               C              AB               C               A               B                   HEMANTH S G 
+1RV15CS063           7.81              B               C               B               B               A               C                   ISHA BHATIA 
+1RV15CS064           9.54              A               A               S               S               A               S                   J M RAAGINI 
+1RV15CS065           8.88              B               A               A               A               A               A                     JAYANTH S 
+1RV15CS067           8.85              A               A               A               A               A               B             K S AMOGH VARDHAN 
+1RV15CS068           8.88              B               A               A               A               A               A                KARTHIK BHAT A 
+1RV15CS069           9.00              A               A               A               A               A               A                KASHISH SHARMA 
+1RV15CS070           7.81              B               C               B               B               B               B                     KESHAVA N 
+1RV15CS071           8.65              A               B               A               A               B               A             KHAMAR ALI SHAIKH 
+1RV15CS072           8.42              A               C               A               B               A               A                         KIRTI 
+1RV15CS073           8.62              A               B               A               B               A               A       KRUTIKA V HONNAPPAGOUDAR
+1RV15CS074           6.62              B               E               D               C               A               B                KUMAR SHANTANU 
+1RV15CS075           8.92              B               A               S               A               B               A                  LAYEEQ AHMED 
+1RV15CS076           8.69              B               A               A               B               A               A                    LIKHITHA J 
+1RV15CS077           8.38              B               B               A               A               B               B            M S PREETHAM MAIYA 
+1RV15CS078           5.35              B               E               C               F               B               C                  MADHUP GUPTA 
+1RV15CS079           8.69              B               B               A               A               A               A                 MALIKA MAKKER 
+1RV15CS080           5.77              C               D               B               F               B               B            MALLIKARJUN KAMBLE 
+1RV15CS082           6.00              C               F               B               C               C               B           MANDARA R BHARADWAJ 
+1RV15CS083           8.12              B               C               B               B               A               A                MANISHA SUDHIR 
+1RV15CS084           8.69              B               B               A               A               A               A MANJUNATH PANDURANG JAKARADDI 
+1RV15CS085           7.08              B               D               C               B               B               C                 MANU BHARDWAJ 
+1RV15CS086           8.81              A               B               A               A               A               A      MEGHANA MANJUNATHA JANNU 
+1RV15CS087           8.69              B               B               A               A               A               A                  MEGHNA PANDA 
+1RV15CS088           8.35              B               B               A               B               A               B                    MEHUL GOEL 
+1RV15CS089           8.69              B               B               A               A               A               A           MOHAMMAD SAIF SABIR 
+1RV15CS090           8.85              A               A               A               A               A               B          MOHAMMED YASEEN IQBAL
+1RV15CS091           7.50              C               C               B               C               B               B                    MONIKA J P 
+1RV15CS092           6.92              A               B               X               A               A               B                MRIDUL KAUSHIK 
+1RV15CS093           9.35              A               A               S               A               S               A                     N PRAGATHI
+1RV15CS094           8.69              B               B               A               A               A               A                     N R VINAY 
+1RV15CS095           9.88              A               S               S               S               S               S           NAMITHA PADMANABHAN 
+1RV15CS096           8.00              B               B               B               B               B               B       NARAYAN GANESH HASYAGAR 
+1RV15CS097           8.04              B               B               A               B               B               C                       NAVYA M 
+1RV15CS098           5.92              B               C               C               F               B               C                  NILABH VERMA 
+1RV15CS099           6.65              B               B               A               X               B               B                    NINAD JAIN 
+1RV15CS100           8.38              B               A               A               B               B               B                    NISARG A K 
+1RV15CS101           8.46              A               B               A               B               B               A                  NITEESH BHAT 
+1RV15CS102           8.19              B               B               A               B               B               B                    NITHIN H K 
+1RV15CS103           8.19              B               B               A               B               A               C     NUTHETI PAVAN SAI DIWAKAR 
+1RV15CS104           8.69              B               B               A               A               A               A               PARIDA BRAMHOTRI
+1RV15CS106           7.50              B               C               B               B               C               C                 PAVAN R SANKH 
+1RV15CS108           2.62              D               F               D               F               C            NSSR             POROM SIVAM KALITA
+1RV15CS109           8.23              B               B               A               A               B               C                 PRABUDDHA S L 
+1RV15CS110           8.42              C               B               A               A               A               B       PRADYUMNA HOSADU NAVADA 
+1RV15CS111           9.15              A               A               A               A               S               A                   PRADYUMNA S 
+1RV15CS112           8.27              A               B               B               B               A               B                 PRANAV KHANNA 
+1RV15CS113           8.54              B               B               S               B               A               B                 PRANAV VUTKUR 
+1RV15CS114           8.81              A               B               A               A               A               A                 PRATEEK KUMAR 
+1RV15CS115           4.77              C               C               B            NSSR               C            NSSR                  PRAVEEN TELI 
+1RV15CS116           6.62              B               D               C               B               B               E     PRIYADARSHINI RAGHAVENDRA 
+1RV15CS117           8.69              B               B               A               A               A               A                    PRIYANKA S 
+1RV15CS118           8.35              B               B               A               B               A               B           RACHAMADUGU MEGHANA 
+1RV15CS119           9.50              A               A               S               A               S               S                 RADHA KUMARAN 
+1RV15CS120           9.04              B               A               A               A               S               A      RAHUL MUPPANAGOUDA PATIL 
+1RV15CS121           9.35              A               A               S               A               S               A                       RAHUL S 
+1RV15CS122           6.15              C               D               C               C               C               E                   RAJAT GUPTA 
+1RV15CS123           8.19              B               B               A               B               B               B                    RAKSHITH C 
+1RV15CS124           9.38              A               A               S               S               S               B                   RAM ROHAN R 
+1RV15CS125           7.73              B               B               A               B               B               D                   RAM SRINIVAS
+1RV15CS126           9.50              A               A               S               A               S               S              RAMYA RAMANATHAN 
+1RV15CS127           3.12              C               F               F               F               B               C                   RISHABH RAJ 
+1RV15CS128           8.65              A               B               A               A               A               B                       ROHAN E 
+1RV15CS129           8.88              B               A               A               A               A               A                   ROHAN SIMHA 
+1RV15CS130           8.00              B               B               B               B               B               B                      ROHITH Y 
+1RV15CS131           6.27              B               C               B               F               B               B          RUP KUMAR SAHA MANDAL
+1RV15CS132           8.19              B               A               B               B               A               C                   S A NIHITHA 
+1RV15CS133           7.81              B               C               B               B               A               C                    SACHIN H R 
+1RV15CS134           6.77              C               D               C               C               B               C                  SAGAR SHEKHAR
+1RV15CS135           6.04              D               C               B               C               B               F            SAI ANEESH REDDY M 
+1RV15CS136           8.35              B               B               A               B               A               B                  SAKSHYA DEEP 
+1RV15CS137           7.35              B               C               B               B               B               D      SAMANTHAPUDI NAVYA SRIJA 
+1RV15CS138           2.42              F               F               F               C               C            NSSR           SAMARTH B K SRINATH 
+1RV15CS140           7.65              B               B               C               B               B               C                  SARTHAK BANKA
+1RV15CS141           8.92              B               A               S               A               A               B                      SHAMREEN 
+1RV15CS142           8.38              B               B               A               A               A               C                  SHARANBASAVA 
+1RV15CS143           7.54              B               C               A               B               B               D              SHARAT M MALKHED 
+1RV15CS144           8.88              B               A               A               A               A               A                SHARATH J BHAT 
+1RV15CS145           7.27              B               D               B               B               C               B           SHIVAKUMAR NAGANOOR 
+1RV15CS146           8.54              B               B               A               A               A               B                   SHIVAM BHAT 
+1RV15CS147           9.23              B               A               A               S               S               A                     SHIVANI H 
+1RV15CS148           9.54              A               A               S               S               S               A                   SHLOK SETHIA
+1RV15CS149           9.54              A               A               S               S               S               A                   SHREYAS A R 
+1RV15CS150           8.73              B               A               A               A               A               B     SHREYAS PRABHAKAR GAIKWAD 
+1RV15CS151           9.54              A               A               S               S               S               A               SHREYAS SRINATH 
+1RV15CS152           8.65              A               B               A               A               A               B             SHUBHAM CHOUDHARY 
+1RV15CS153           7.77              A               C               B               B               B               C               SHUBHAM NAVETIA 
+1RV15CS154           5.38              C               C               B               F               C               E                    SIDAARTH R 
+1RV15CS155           6.31              B               F               B               B               B               C               SIDDHANT BHARTI 
+1RV15CS157           9.04              A               A               A               S               A               B               SIDDHARTH MITTA 
+1RV15CS158           9.50              A               A               S               A               S               S               SINDHU B DINESH 
+1RV15CS159           9.00              A               A               A               A               A               A                 SOUMYA SHARMA 
+1RV15CS160           6.00              B               F               B               B               B               D                      SOURAV S 
+1RV15CS161           9.15              A               A               A               A               S               A           SRINIVAS PRABHU N V 
+1RV15CS162           9.08              B               A               S               A               A               A                  SRINIVAS S T 
+1RV15CS164           8.88              B               A               A               A               A               A                   SRIRAM N RAO
+1RV15CS165           9.00              A               A               A               A               A               A         SRIVARDHAN REDDY KALLI
+1RV15CS166           7.35              B               C               B               B               B               D             SRUTHI SRINIVASAN 
+1RV15CS167           7.38              B               B               B               B               C               D                  SUJAY LOKESH 
+1RV15CS168           8.54              B               B               A               A               B               A           SURAJ RATNAKAR NAIK 
+1RV15CS169           8.73              B               A               A               A               A               B             SUSHANTO PRAHARAJ 
+1RV15CS170           7.96              B               C               B               B               A               B                      SWATHI S 
+1RV15CS171           8.15              B               B               B               B               A               B                SWETHA SAVALGI 
+1RV15CS172           8.31              B               C               A               B               A               A                      T SOUMYA 
+1RV15CS173           8.54              B               B               A               A               A               B                  T VENUMADHAV 
+1RV15CS174           6.31              B               B               X               B               B               C               T MADHAVKRISHNA 
+1RV15CS175           6.77              C               C               C               D               B               C                  TANMAY KELKAR
+1RV15CS176           0.81              C              AB              AB               F               F            NSSR               TARUN KRISHNA K 
+1RV15CS177           7.54              C               B               B               C               B               C  TENMATHAM PRANEETHA CHARYULU 
+1RV15CS178           8.08              B               A               A               B               C               C    TIRUVIDULA YASHODA KRISHNA 
+1RV15CS179           4.81              C               D               C               F               C               E                TUSHAR S GOWDA 
+1RV15CS180           5.62              D               F               B               C               C               C              UMANG SAHASTRANSU
+1RV15CS181           3.65              B               E               F               C               E            NSSR                 UTKARSH VERMA 
+1RV15CS183           9.00              A               A               A               A               A               A                     VINDHYA N 
+1RV15CS184           9.19              A               S               A               A               A               A              VISHWALA C PATEL 
+1RV15CS185           6.77              D               D               B               B               C               C                  VIVEK A HERUR
+1RV15CS187           8.04              C               B               B               B               B               A           YASHINSAB NAYAKWADI 
+1RV15CS188           8.81              A               B               A               A               A               A                 YASHWANTH B K 
+1RV15CS189           7.65              B               C               B               B               B               C             ZISHEN THAJUDHEEN 
+1RV15CS190           8.88              B               A               A               A               A               A              VANSHIKA KUCHHAL 
+1RV15CS191           7.50              B               C               B               B               C               C                       VIKAS K 
+1RV15CS192           7.96              B               C               B               B               B               A                SUMANTH DIRISAM
+1RV15CS193           7.15              B               C               B               C               B               D                      RONIT ROY
+1RV15CS194           8.35              B               B               B               A               A               B                  KAPIL AGRAWAL
+1RV15CS195           8.96              A               B               A               A               S               A                    URMI DUTTA 
+1RV15CS196           2.65              C               F               E               F               C               F                   RISHABH RAJ 
+1RV15CS197           6.54              B               E               C               C               C               C          DIKSHITA RAMESH BABU 
+1RV15CS198           8.54              B               B               A               A               A               B                      AYON PAL 

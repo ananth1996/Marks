@@ -1,0 +1,40 @@
+USN                  SGPA         12TE81          12TE82         12HSS83                           NAME
+1RV14TE003           9.10              A               S               S        AKARSH JAGADEV GALAGALI
+1RV14TE004           9.10              A               S               S                 AKHIL SRINIVAS
+1RV14TE005           7.95              B               C               B                  AKSHAY KUMAR 
+1RV14TE006           8.95              A               A               B                  AKSHAY SAXENA
+1RV14TE007          10.00              S               S               S                     ALEKH K A 
+1RV14TE008           9.00              A               A               A                    ANSH NARANG
+1RV14TE009          10.00              S               S               S                        ANUSHKA
+1RV14TE011           9.00              A               A               A                     ASHWIN H R
+1RV14TE013           9.95              S               A               S                  AYUSH AGRAWAL
+1RV14TE014           9.05              A               S               A                     CHANDAN G 
+1RV14TE016           9.00              A               A               A             DEBOPRIYO BHOWMICK
+1RV14TE018           8.95              A               B               A             GOUTHAAMI S RAMESH
+1RV14TE019          10.00              S               S               S                    HARSH DUBEY
+1RV14TE028           9.00              A               A               A                      MRUDULA N
+1RV14TE029           9.05              A               A               S                NAGAPRAJWAL K N
+1RV14TE030           9.95              S               S               A                NAGESH N NAZARE
+1RV14TE031           9.95              S               S               A                   NAVEEN DUBEY
+1RV14TE032           9.95              S               A               S      NAYANA RAMACHANDRA JAMBHE
+1RV14TE033           9.95              S               A               S              NAYANIKA TRIPATHI
+1RV14TE034           9.05              A               S               A              NISHCHAL BADAGERI
+1RV14TE038          10.00              S               S               S                     POOJA V G 
+1RV14TE039           9.90              S               A               A         PRADEEP SHANTARAM BHAT
+1RV14TE040           9.05              A               A               S                   PRAGATHI L V
+1RV14TE042           8.95              A               A               B                   PREM KUMAR N
+1RV14TE043           9.10              A               S               S                   S DIVYASHREE
+1RV14TE045           9.95              S               S               A                   SAMARTH JAIN
+1RV14TE047          10.00              S               S               S                 SANJAY R NAYAK
+1RV14TE048           8.95              A               A               B                SARTHAK JAISWAL
+1RV14TE049           9.10              A               S               S                   SHEFALI RANI
+1RV14TE050           9.10              A               S               S                  SHEKHAR ANAND
+1RV14TE052           9.90              S               A               A                  SHUBHAM GUPTA
+1RV14TE054           9.00              A               A               A                 SOUMINI RAMESH
+1RV14TE055           9.00              A               A               A            SRIDIP KUMAR MISHRA
+1RV14TE057           9.05              A               A               S             SYED ARAFATH AHMED
+1RV14TE058           9.10              A               S               S                     VAIBHAVI G
+1RV14TE059           9.05              A               A               S                        VARUN R
+1RV14TE061           9.10              A               S               S                  ASMA FARHEEN 
+1RV14TE062          10.00              S               S               S             AKSHAY KAUSHIK K S
+1RV14TE063           9.10              A               S               S           PRATHIKSHA R PUTHREN

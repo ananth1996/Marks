@@ -1,0 +1,107 @@
+USN                  SGPA         12ME81          12ME82         12HSS83                           NAME
+1RV14ME001          10.00              S               S               S             ABHISHEK HOBALIDAR
+1RV14ME002           9.90              S               A               A               ABHISHEK L BOLAR
+1RV14ME003           8.00              B               B               B                ABHISHEK PATIL 
+1RV14ME004           8.95              A               A               B           ABID ABDULLA MOHAMED
+1RV14ME005           9.00              A               A               A                    ADITHYA K S
+1RV14ME006           9.85              S               B               A              ADITHYA M KASHYAP
+1RV14ME007           9.90              S               A               A                      ADITYA K 
+1RV14ME008           9.95              S               S               A                       ADITYA A
+1RV14ME009           8.00              B               B               B                   ADITYA SETIA
+1RV14ME010          10.00              S               S               S                       ADITYA C
+1RV14ME011           8.95              A               A               B                       ADITYA P
+1RV14ME012           9.95              S               S               A       AJAY KUMAR A SATALAGAON 
+1RV14ME013           9.85              S               A               B               AKHIL KUMAR K N 
+1RV14ME014           9.95              S               A               S                 AKHIL V ADIKE 
+1RV14ME015           9.95              S               A               S             AKHILESHWAR PANDEY
+1RV14ME016           8.95              A               A               B  ALASTAIR ALPHONSE MASCARENHAS
+1RV14ME017           9.90              S               A               A                 AMRUT CHOUGULE
+1RV14ME018           9.85              S               A               B                   ANANTHU HARI
+1RV14ME020           9.90              S               A               A                 ANISH JAIN D A
+1RV14ME022           9.95              S               S               A       ANNAPU REDDY KIRAN KUMAR
+1RV14ME023           9.85              S               B               A                     ANUP PATIL
+1RV14ME024           9.85              S               A               B ARAVEETI VENKATA SUBBA SAI SAN
+1RV14ME025           8.95              A               A               B                        ARJUN R
+1RV14ME027          10.00              S               S               S       ARUNANGSHU BHATTACHARJEE
+1RV14ME028           9.90              S               B               S                  ASHISH S NAIR
+1RV14ME029          10.00              S               S               S             AVINASH B CHALEKAR
+1RV14ME030           9.95              S               S               A                 AYUSH R MAHDEV
+1RV14ME032           9.95              S               S               A   BALA SAI TARUN CHINNAMUTHAVI
+1RV14ME033           9.00              A               S               B          CHARAKANI SIVA PRASAD
+1RV14ME034          10.00              S               S               S                   DEEPA HEGDE 
+1RV14ME035           9.95              S               S               A                      DEEPAN V 
+1RV14ME037           9.95              S               A               S                    E R SUMANTH
+1RV14ME038           9.90              S               B               S            ETIKYALA SAI CHARAN
+1RV14ME039          10.00              S               S               S                   G S SRIVATSA
+1RV14ME040           9.90              S               A               A                       GAURAV J
+1RV14ME041           8.90              A               B               B                HIMADRIE SHARMA
+1RV14ME042           8.80              A               D               A            JIMMY FRANCIS BASIL
+1RV14ME043           9.90              S               B               S            JNANASHEKAR REDDY P
+1RV14ME044           9.85              S               A               B                    KARAN GUPTA
+1RV14ME045          10.00              S               S               S                     KETAN BAAD
+1RV14ME047           8.90              A               B               B                   KUMAR AAYUSH
+1RV14ME048           9.85              S               B               A                     LAKULESH K
+1RV14ME049          10.00              S               S               S               LIKHITHA R REDDY
+1RV14ME050           9.95              S               S               A                       M SAIRAM
+1RV14ME052           9.85              S               A               B                     MAYANK RAJ
+1RV14ME053           9.00              A               A               A              MOHAMMAD MUTHAHIR
+1RV14ME054           9.90              S               B               S           MOHAMMED ATIQH AHMED
+1RV14ME055           9.95              S               A               S                          MOHAN
+1RV14ME057           9.85              S               B               A                 NANDAN K HEGDE
+1RV14ME058           9.95              S               A               S           NEERAJ GANAPATI BAGI
+1RV14ME060           8.90              A               B               B                 NIKHIL PARYANI
+1RV14ME061          10.00              S               S               S               NIRAL G M DESAI 
+1RV14ME063           9.95              S               A               S                   OJUS KAUSHAL
+1RV14ME064           9.65              S               A               E                     P KARTHIK 
+1RV14ME065           9.90              S               A               A     PADARTHI VENKATA SAI TARAK
+1RV14ME066           9.00              A               B               S                  PAVAN KUMAR R
+1RV14ME067           9.05              A               A               S                    PRAJWAL C P
+1RV14ME068           9.90              S               A               A                      PRASANNA 
+1RV14ME070           9.90              S               B               S              PRATEEK BHUSTALI 
+1RV14ME071           8.95              A               A               B          PRAVEEN VAIDEESHWAR R
+1RV14ME072           9.95              S               S               A                 RAHUL J PATIL 
+1RV14ME073           9.80              S               C               A                      RAHUL K P
+1RV14ME074           9.95              S               A               S                  RAJAT PRAVEEN
+1RV14ME075           9.90              S               B               S           RAJATH ASHOK ULVEKAR
+1RV14ME077          10.00              S               S               S                     RAKESH H N
+1RV14ME078           9.80              S               B               B                 RANGANATH S R 
+1RV14ME080           9.85              S               A               B               ROHAN TASGAONKAR
+1RV14ME081           9.95              S               A               S                    SAJAL GUPTA
+1RV14ME083           9.85              S               S               C                    SAURABH DEO
+1RV14ME084           9.05              A               A               S     SHANKAR SUBRAMANIAN SRIRAM
+1RV14ME085           9.95              S               A               S                 SHARAN B HEGDE
+1RV14ME086           9.95              S               S               A      SHIVANAND SURESH VANJIRE 
+1RV14ME087           9.10              A               S               S                SHIVARAJ NATRAJ
+1RV14ME088          10.00              S               S               S            SHRUTI MURALIDHARAN
+1RV14ME089          10.00              S               S               S                  SHUBHAM JALAN
+1RV14ME090           8.95              A               A               B             SIDDHARTH M BELLAD
+1RV14ME091           9.10              A               S               S                 SIDHARTHA SAHU
+1RV14ME092          10.00              S               S               S                    SPARSH JAIN
+1RV14ME094           9.95              S               S               A           SUKRIT ARAVIND PATIL
+1RV14ME095          10.00              S               S               S                       SUKSHITH
+1RV14ME096           9.95              S               S               A                  SUNIL KUMAR S
+1RV14ME097           9.05              A               S               A                        SUNIT J
+1RV14ME099          10.00              S               S               S           SURENDRA G MATTIMADU
+1RV14ME100           9.10              A               S               S                      SWEEKRUTH
+1RV14ME101          10.00              S               S               S              TEJAS R KULKARNI 
+1RV14ME102          10.00              S               S               S                   V MANOJKUMAR
+1RV14ME104           9.95              S               S               A                       V VIKRAM
+1RV14ME105           9.95              S               S               A          VAIBHAV A RUDRAGOUDAR
+1RV14ME106           9.95              S               S               A                  VAIBHAV PILLI
+1RV14ME107          10.00              S               S               S              VANKAYALA ANIRUDH
+1RV14ME108          10.00              S               S               S                      VARUN V V
+1RV14ME109           9.10              A               S               S                  VIDYADHAR V G
+1RV14ME110          10.00              S               S               S                 VIDYADHARA B V
+1RV14ME111           9.95              S               S               A             VIKETH S YANDIGERI
+1RV14ME112           9.05              A               S               A                    VIPLOV JAIN
+1RV14ME113          10.00              S               S               S                  VISHAL KANNAN
+1RV14ME114          10.00              S               S               S            VISHNUSAGAR REDDY P
+1RV14ME115           9.05              A               S               A                VIVEK JANARDHAN
+1RV14ME116          10.00              S               S               S                  Y H SHASHANK 
+1RV14ME118           9.80              S               B               B                   ZAFAR WAQUAR
+1RV14ME121           8.85              A               B               C                  ANUBHAV GUPTA
+1RV14ME122          10.00              S               S               S                   K CHANDRAHAS
+1RV14ME123          10.00              S               S               S                       MOHAN M 
+1RV14ME124           9.00              A               A               A                   ABHISHEK RAY
+1RV14ME125          10.00              S               S               S        RABINDRA NATH MUKHERJEE
+1RV14ME126           8.90              A               B               B               GOVIND NARAYANAN

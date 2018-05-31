@@ -1,0 +1,44 @@
+USN                  SGPA         12BT71          12BT72         12HSC73          12BT74         12BT7EX         12GF7XX         12GG7XX                           NAME
+1RV14BT001           7.44              C               B               B               A               C               C               C           AAHELI CHATTOPADHYAY
+1RV14BT002           8.44              B               B               B               S               B               A               A                 AANCHAL DHAWAN
+1RV14BT003           8.32              B               A               C               S               A               B               C       ABHISHEKA RAJARAMA HEGDE
+1RV14BT004           8.96              A               A               A               S               A               A               B                 AISHWARYA BHAT
+1RV14BT005           9.28              A               A               B               S               S               A               S                  AKANKSHA JAIN
+1RV14BT006           8.40              B               A               B               S               A               B               C                    AKSHATHA A 
+1RV14BT007           8.92              A               A               A               S               A               B               A                  AKSHAY JAIN A
+1RV14BT008           9.08              A               A               A               S               A               A               A         ALYSIA MARILIA MARTINS
+1RV14BT009           8.32              B               B               B               S               A               B               B                         ANANYA
+1RV14BT010           8.56              B               A               B               A               A               B               A                 ANJANA N JOSHI
+1RV14BT012           9.00              A               A               B               S               A               A               A              ANUSHA A S KAMATH
+1RV14BT013           9.08              A               A               A               S               A               A               A            APOORVA RAMAMURTHY 
+1RV14BT016           8.40              C               A               A               S               A               B               B                    AYUSH KUMAR
+1RV14BT017           8.72              A               A               B               S               A               B               B      BHARADHWAJ VINAY SRINIVAS
+1RV14BT018           9.52              S               S               B               S               A               A               S                       BHAVYA V
+1RV14BT019           9.04              A               A               B               S               S               A               B            BODDEPALLI SINDHUJA
+1RV14BT020           8.52              B               A               B               A               B               B               S                      BRINDA V 
+1RV14BT021           9.08              A               A               B               A               S               A               A                     DARSHAN S 
+1RV14BT022           7.00              C               C               C               A               B               D               C                DEBADRITA GHOSH
+1RV14BT024           8.96              B               A               B               S               S               A               A                        HAMSA L
+1RV14BT025           9.20              B               A               A               S               S               S               A                          JYOTI
+1RV14BT026           7.16              C               A               X               A               B               C               C              KARTHIK REDDY A N
+1RV14BT027           8.36              C               A               B               A               B               A               A                      SANDHYA M
+1RV14BT028           8.92              A               A               A               S               A               B               A                   MONA VUDUTHA
+1RV14BT029           9.56              S               A               A               S               S               A               S            NANDITA RAMPRASAD M
+1RV14BT031           8.72              B               A               B               A               A               A               A           NIKITA SACHIN JADHAV
+1RV14BT033           8.52              C               A               B               A               B               S               A                      PAYAL SEN
+1RV14BT036           9.72              A               S               A               S               S               S               S                    RANJINI K R
+1RV14BT037           7.24              D               C               B               S               B               B               C                   RISHABH SAND
+1RV14BT038           9.44              A               S               A               S               S               A               A                     ROOPA G S 
+1RV14BT039           9.56              A               S               A               S               S               A               S                      S MEGHANA
+1RV14BT040           9.36              A               A               A               S               S               A               S                    SACHI MEHRA
+1RV14BT041           8.56              B               A               B               A               A               B               A                       SAHANA C
+1RV14BT043           9.56              A               S               A               S               S               A               S                  SANYAM SURANA
+1RV14BT044           9.56              A               S               A               S               S               A               S                      SHRIYA R 
+1RV14BT045           8.36              B               A               B               S               A               C               B                 SHUBHA LAKSHMI
+1RV14BT047           8.56              B               B               A               S               A               A               B            SRUJANA S RAMASWAMY
+1RV14BT049           9.16              A               A               B               S               S               A               A                      SURYA K R
+1RV14BT050           8.08              C               B               B               S               A               C               A               V SAI PRATHYUSHA
+1RV14BT051           8.92              A               A               A               S               A               B               A                      VANDANA T
+1RV14BT052           6.92              B               B               B               A               C               E               D                    VIKASARADDY
+1RV14BT054           8.24              B               A               B               A               B               C               A                    YASH MALIK 
+1RV14BT055           9.76              S               S               A               S               S               A               S              YASHASWINI R BHAT

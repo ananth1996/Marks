@@ -1,0 +1,32 @@
+USN                  SGPA        12HSI51          12CH52          12CH53          12CH54         12CH5AX         12CH5BX                           NAME
+1RV15CH001           9.04              B               A               A               A               S               A AISHWARYA PARASHURAMSA SATAPUT
+1RV15CH003           8.85              B               A               A               B               A               S                     ANUP SAUD 
+1RV15CH005           8.23              C               A               B               B               B               A     ASHWIN MATHEW KOCHUKALAYIL
+1RV15CH006           7.69              C               C               B               B               B               B              BAHUBALI MAGADUM 
+1RV15CH007           8.85              B               B               A               A               S               A          G SAI SRIVATSA KUMAR 
+1RV15CH008           9.15              A               A               A               A               S               A             HARSHITH R PRABHU 
+1RV15CH009           8.88              B               A               A               A               A               A                HIMANSHU SINGH 
+1RV15CH010           8.42              C               A               B               A               B               A                  KALPITHA M V 
+1RV15CH011           7.38              C               B               C               B               C               C          KONASIVAGOWTHAMREDDY 
+1RV15CH013           8.69              B               A               A               B               S               B               NIVEDITHA MOHAN 
+1RV15CH015           4.19              C               C               F               D               F               C              PRAMADA TIRUMALA 
+1RV15CH016           8.69              B               A               B               A               A               A               PRATHAM KUMAR N 
+1RV15CH017           8.88              B               A               A               A               A               A                   RAGHAV RAJA 
+1RV15CH018           8.92              C               A               A               A               S               A               RAHUL RAIBAGKAR 
+1RV15CH019           9.54              A               S               S               A               S               A                       RISHABH 
+1RV15CH020           8.88              B               A               A               A               A               A                   ROHIT KUMAR 
+1RV15CH021           8.38              C               B               B               A               A               A            ROS THERES KOIKKARA
+1RV15CH023           8.69              B               A               B               A               A               A           SAIKIRAN R SARADAGI 
+1RV15CH024           9.00              B               B               A               A               S               S              SAMRIDDHI SAXENA 
+1RV15CH025           7.77              B               C               C               B               A               B                   SANDHYA G S 
+1RV15CH026           9.15              A               A               A               A               S               A           SANJANA S BHARADWAJ 
+1RV15CH029           8.50              B               B               B               A               A               A                  SHIVAM BANSAL
+1RV15CH030           8.96              A               B               A               A               S               A             SHREYANS GADIYA N 
+1RV15CH031           9.31              A               A               A               A               S               S             SHRISHA KUMAR S N 
+1RV15CH032           8.69              B               A               A               B               A               A                SIDDANTH SANIL 
+1RV15CH034           8.31              B               B               B               B               A               A             SRUJAN KIRAN ALVA 
+1RV15CH035           9.35              A               A               S               A               S               A                      SUDEEP M 
+1RV15CH036           8.69              B               A               B               A               A               A                SWARNAV BARMAN 
+1RV15CH037           7.69              C               B               B               C               B               B          SWIZEL CONCY PEREIRA 
+1RV15CH039           9.35              A               A               S               A               S               A                 TEJASHREE C S 
+1RV15CH041           8.50              B               B               A               B               A               A                 VARUN THIRTHA 

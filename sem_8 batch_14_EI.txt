@@ -1,0 +1,44 @@
+USN                  SGPA         12IT81          12IT82         12HSS83                           NAME
+1RV14EI001          10.00              S               S               S                AAKASH BHANSALI
+1RV14EI003           8.95              A               A               B                  ABHISHEK BOSE
+1RV14EI006          10.00              S               S               S                AKSHAY KRISHNAN
+1RV14EI008           7.15              C               B               A                 ANIMESH PORWAL
+1RV14EI009           9.90              S               A               A                    ARYA MISHRA
+1RV14EI010           9.95              S               S               A                    ASHNA MANOJ
+1RV14EI011          10.00              S               S               S                    ASHWIN VINU
+1RV14EI012           9.95              S               A               S                      B V UJWAL
+1RV14EI013           9.95              S               S               A        CHINMAYEE G MAHAGAONKAR
+1RV14EI014           9.95              S               S               A                     DEEKSHA S 
+1RV14EI015           8.95              A               B               A                 DEVYANI TANWAR
+1RV14EI016          10.00              S               S               S                       GANAVI B
+1RV14EI017           9.95              S               S               A                   HAMPEESH K O
+1RV14EI018          10.00              S               S               S                      JACUS JOE
+1RV14EI019           9.85              S               A               B                   JOYDEEP DEY 
+1RV14EI024          10.00              S               S               S                 KEREN E THOMAS
+1RV14EI025           7.25              C               A               S        LOHITH CHANDRA PRASAD R
+1RV14EI027          10.00              S               S               S                      MANISHA M
+1RV14EI028           9.95              S               A               S                 MANJUNATHA M S
+1RV14EI029           9.00              A               A               A                   NANDAN KUMAR
+1RV14EI030           9.95              S               A               S                  NAVYATHA A M 
+1RV14EI032           9.10              A               S               S             NISHANT SRIVASTAVA
+1RV14EI033           9.95              S               S               A                     P THEJASRI
+1RV14EI034          10.00              S               S               S         POORNACHANDRA R BHATTA
+1RV14EI036          10.00              S               S               S                 SAHANA G HEGDE
+1RV14EI037           9.95              S               S               A                     SAHANA H G
+1RV14EI040          10.00              S               S               S                   SANHITA GUHA
+1RV14EI041           9.95              S               S               A                SANJAY HUNAGUND
+1RV14EI043           8.95              A               B               A                  SHRINJIT DASH
+1RV14EI044           9.85              S               A               B                    SHRUTHI T V
+1RV14EI045           9.10              A               S               S                SIDDHANT BAJPAI
+1RV14EI046           9.00              A               A               A              SIDDHARTH SHEKHAR
+1RV14EI047           9.90              S               A               A                     SNEHAREDDY
+1RV14EI048           8.95              A               B               A               SOOYASH TRIPATHI
+1RV14EI050           9.00              A               A               A                  SUPRIYA SINGH
+1RV14EI052           9.00              A               A               A           SUSHMITHA T KUNDARGI
+1RV14EI053           9.95              S               S               A                      T MONISH 
+1RV14EI055          10.00              S               S               S                     TRISHALA M
+1RV14EI056          10.00              S               S               S                VENKATESH PAWAR
+1RV14EI057           9.90              S               A               A              VENKATESH R GOTUR
+1RV14EI058           9.05              A               A               S                    VIDHI GUPTA
+1RV14EI062           9.95              S               S               A                   ARPITHA B U 
+1RV14EI063           9.95              S               A               S                     XXXXXXXXXX

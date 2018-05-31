@@ -1,0 +1,48 @@
+USN                  SGPA         12EE81          12EE82         12HSS83                           NAME
+1RV14EE002          10.00              S               S               S                    AISHWARYA K
+1RV14EE004           8.10              B               B               S                      AMRUTHA M
+1RV14EE005           9.00              A               B               S              ANANTHA KUMAR G N
+1RV14EE006           9.00              A               B               S                  ANKIT TULSYAN
+1RV14EE008           8.95              A               B               A                     ARNAB PAUL
+1RV14EE009           9.85              S               B               A                    ARUN KUMAR 
+1RV14EE011           9.00              A               B               S                  ASHVIN SURESH
+1RV14EE012           9.00              A               B               S                    BHARATH N T
+1RV14EE013           9.00              A               B               S                    DARSHAN G M
+1RV14EE014           9.00              A               B               S             DEEP KISHORE DINDA
+1RV14EE015           9.95              S               A               S                   E VANDAN RAO
+1RV14EE016           9.80              S               B               B              GOVIND A MALAGHAN
+1RV14EE018           9.80              S               B               B                 GOWRA BANDAVYA
+1RV14EE021           8.70              A               B               E           KAMLESH CHOUDHARY D 
+1RV14EE023           9.00              A               B               S                  KIRAN GANIGER
+1RV14EE025           8.95              A               B               A             KUNAL KISHOR SUMAN
+1RV14EE026           9.00              A               B               S         MALLADI SARVESH KUMAR 
+1RV14EE030           8.95              A               B               A   SANGINATHAM NAVEEN VENKATESH
+1RV14EE031           9.85              S               B               A                      PRAJWAL S
+1RV14EE032           9.00              A               A               A                    PRANJAL JHA
+1RV14EE033           9.90              S               B               S                  PREETI KUMARI
+1RV14EE035           9.00              A               B               S                    RACHEL BABU
+1RV14EE037           9.00              A               B               S                       RAJATH R
+1RV14EE038           8.95              A               B               A                  RAKSHIT SINHA
+1RV14EE040           9.90              S               B               S             ROHITHA RATNAM S M
+1RV14EE041           9.00              A               B               S                 SAGAR S PANDEY
+1RV14EE042           8.95              A               B               A                  SAKSHI SHARMA
+1RV14EE043           9.00              A               B               S                 SAURABH KUMAR 
+1RV14EE047           8.95              A               B               A                   SHREYA MOHAN
+1RV14EE048           9.85              S               B               A                  SHREYASI LAIK
+1RV14EE049           9.00              A               B               S         SOMASHEKHAR SHIVAPOOJI
+1RV14EE051           9.95              S               A               S                SUMUKHA S BHAGI
+1RV14EE052           9.05              A               A               S            SUPRITA P KULKARNI 
+1RV14EE053           9.00              A               B               S                       SUSHMA S
+1RV14EE054           9.00              A               B               S                  SUSHRUTH R P 
+1RV14EE056           8.95              A               B               A      THAKUR SATYAM KUMAR SINHA
+1RV14EE059           9.00              A               B               S          VIKAS ANAND JAMKHANDI
+1RV14EE060           9.90              S               B               S              VISHAL A KULKARNI
+1RV14EE061           9.00              A               B               S              VIVEK KUMAR SINHA
+1RV14EE062           8.95              A               B               A                   TANYA PANDEY
+1RV14EE063           8.90              A               B               B             RONIT BHATTACHARYA
+1RV14EE064           8.95              A               B               A             SURAMYA SRIVASTAVA
+1RV14EE065           8.90              A               B               B                  ANJALI PRASAD
+1RV14EE066           8.95              A               B               A                    YATIN GUPTA
+1RV14EE067           9.00              A               B               S                     YASH GUPTA
+1RV14EE068           8.90              A               B               B                KARISHMA KUMARI
+1RV14EE069           9.05              A               A               S              SHARATH GOWDA S R

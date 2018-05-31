@@ -86,10 +86,10 @@ def run():
 	courseArray =[]
 	blanks=0
 	count =0
-	usn = "1RV13CS000"
+	usn = "1RV14CS000"
 	deptList = ['BT','CH','CV','CS','EC','EE','EI','IS','ME','TE','IM','AS']
 	for dept in deptList:
-		usn = "1RV13CS000"
+		usn = "1RV14CS000"
 		resultDict = {}
 		courseArray = []
 		blanks = 0

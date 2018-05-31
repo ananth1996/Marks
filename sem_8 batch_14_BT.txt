@@ -1,0 +1,44 @@
+USN                  SGPA         12BT81          12BT82         12HSS83                           NAME
+1RV14BT001           8.90              A               A               C           AAHELI CHATTOPADHYAY
+1RV14BT002           8.95              A               A               B                 AANCHAL DHAWAN
+1RV14BT003          10.00              S               S               S       ABHISHEKA RAJARAMA HEGDE
+1RV14BT004           9.10              A               S               S                 AISHWARYA BHAT
+1RV14BT005          10.00              S               S               S                  AKANKSHA JAIN
+1RV14BT006           9.00              A               A               A                    AKSHATHA A 
+1RV14BT007          10.00              S               S               S                  AKSHAY JAIN A
+1RV14BT008           9.10              A               S               S         ALYSIA MARILIA MARTINS
+1RV14BT009           9.10              A               S               S                         ANANYA
+1RV14BT010           9.05              A               A               S                 ANJANA N JOSHI
+1RV14BT012           9.10              A               S               S              ANUSHA A S KAMATH
+1RV14BT013           9.10              A               S               S            APOORVA RAMAMURTHY 
+1RV14BT016           9.10              A               S               S                    AYUSH KUMAR
+1RV14BT017           9.10              A               S               S      BHARADHWAJ VINAY SRINIVAS
+1RV14BT018           9.95              S               A               S                       BHAVYA V
+1RV14BT019           9.05              A               A               S            BODDEPALLI SINDHUJA
+1RV14BT020           9.05              A               A               S                      BRINDA V 
+1RV14BT021           9.05              A               A               S                     DARSHAN S 
+1RV14BT022           9.00              A               A               A                DEBADRITA GHOSH
+1RV14BT024           9.05              A               A               S                        HAMSA L
+1RV14BT025           9.95              S               A               S                          JYOTI
+1RV14BT026           9.05              A               A               S              KARTHIK REDDY A N
+1RV14BT027           9.85              S               A               B                      SANDHYA M
+1RV14BT028           9.05              A               A               S                   MONA VUDUTHA
+1RV14BT029          10.00              S               S               S            NANDITA RAMPRASAD M
+1RV14BT031           9.95              S               A               S           NIKITA SACHIN JADHAV
+1RV14BT033           9.00              A               A               A                      PAYAL SEN
+1RV14BT036           9.10              A               S               S                    RANJINI K R
+1RV14BT037           9.00              A               A               A                   RISHABH SAND
+1RV14BT038          10.00              S               S               S                     ROOPA G S 
+1RV14BT039          10.00              S               S               S                      S MEGHANA
+1RV14BT040           9.05              A               A               S                    SACHI MEHRA
+1RV14BT041           9.95              S               A               S                       SAHANA C
+1RV14BT043          10.00              S               S               S                  SANYAM SURANA
+1RV14BT044          10.00              S               S               S                      SHRIYA R 
+1RV14BT045           9.05              A               A               S                 SHUBHA LAKSHMI
+1RV14BT047           9.05              A               A               S            SRUJANA S RAMASWAMY
+1RV14BT049          10.00              S               S               S                      SURYA K R
+1RV14BT050           8.95              A               A               B               V SAI PRATHYUSHA
+1RV14BT051           9.10              A               S               S                      VANDANA T
+1RV14BT052           9.95              S               A               S                    VIKASARADDY
+1RV14BT054           9.05              A               A               S                    YASH MALIK 
+1RV14BT055           9.10              A               S               S              YASHASWINI R BHAT

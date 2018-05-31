@@ -1,0 +1,60 @@
+USN                  SGPA         12IS81          12IS82         12HSS83                           NAME
+1RV14IS001           9.95              S               A               S                  ABHISHEK J M 
+1RV14IS003          10.00              S               S               S                 ADITYA VIKRAM 
+1RV14IS004           9.00              A               A               A                AKANKSHA SHREYA
+1RV14IS005           8.95              A               A               B            AKSHATA BABU HEGADE
+1RV14IS007           9.90              S               A               A                      ANIKETH W
+1RV14IS008           9.00              A               A               A                ANIRUDDHA K RAO
+1RV14IS009           9.85              S               A               B                     ARPITHA U 
+1RV14IS011           9.00              A               A               A             DEEPANKSHA DHINGRA
+1RV14IS012          10.00              S               S               S               HARIPRIYA RAMESH
+1RV14IS013           9.10              A               S               S       HARSHA NARENDRA KULKARNI
+1RV14IS014           9.00              A               A               A                 JESSICA SMRITI
+1RV14IS015          10.00              S               S               S           KHADIJA TAHER ZAVERY
+1RV14IS016           9.10              A               S               S              KRISHANU TAKHTANI
+1RV14IS018           9.05              A               A               S            M SANATH SHANBHOGUE
+1RV14IS019           9.95              S               A               S         M VENKATA SURYA VAMSHI
+1RV14IS020          10.00              S               S               S                MANASWINI SWAMY
+1RV14IS021           9.00              A               A               A                   MANJUNATH B 
+1RV14IS022           9.05              A               S               A                    MAYANK JAIN
+1RV14IS023           9.05              A               S               A                      NISHITA H
+1RV14IS024           9.10              A               S               S                NISHITA R HEGDE
+1RV14IS025           9.10              A               S               S             NITHIN KARTHIK R N
+1RV14IS026           9.00              A               A               A                NIVEDITA NIGAM 
+1RV14IS027          10.00              S               S               S                 PAVAN HIREMATH
+1RV14IS028           8.95              A               A               B                  PRADYUMNA A N
+1RV14IS029           9.05              A               A               S            PRAKASH KUMAR SINGH
+1RV14IS030           9.05              A               A               S                 PRANAV SHANKAR
+1RV14IS032           9.95              S               A               S                PRIYANK AVIJEET
+1RV14IS034           9.05              A               A               S              RAMYA KEERTHANA R
+1RV14IS035           8.95              A               A               B      SACHEEN MAHADEV HULAJATTI
+1RV14IS036           8.90              A               B               B                SAMARTH V GOWDA
+1RV14IS038          10.00              S               S               S                   SANJANA SURI
+1RV14IS040           9.95              S               S               A           SATISH KUMAR AGARWAL
+1RV14IS041          10.00              S               S               S                 SAURAV ANCHLIA
+1RV14IS044           9.05              A               A               S           SHARDINDU KANT SUMAN
+1RV14IS045           9.05              A               A               S                      SHRAVYA K
+1RV14IS046          10.00              S               S               S                  SHREYANS JAIN
+1RV14IS047           9.95              S               A               S                    SHREYAS S B
+1RV14IS048           9.05              A               A               S                   SHUBHAM GOEL
+1RV14IS050           9.00              A               A               A                  SIMRAN TANEJA
+1RV14IS051           9.00              A               S               B                      SIMRAN B 
+1RV14IS052           8.95              A               A               B                     SRINIVAS R
+1RV14IS053           9.05              A               A               S              SRISHANKAR SUNDAR
+1RV14IS054          10.00              S               S               S                 SURESH N NAYAK
+1RV14IS055           9.95              S               S               A                 TANYA CHAWLANI
+1RV14IS057           9.90              S               S               B               UDITH SHANKAR M 
+1RV14IS058           9.95              S               S               A                VAISHNAVI SINGH
+1RV14IS059           9.00              A               A               A                     VARSHA V S
+1RV14IS060           9.00              A               A               A                      VINUTHA M
+1RV14IS061           9.85              S               A               B                   VISHAK UDUPA
+1RV14IS062           9.95              S               A               S                 RACHIT LOSALKA
+1RV14IS063           9.85              S               A               B               SOORAJ BHARADWAJ
+1RV14IS064           9.10              A               S               S                  HARSH AGARWAL
+1RV14IS065          10.00              S               S               S                  AABHAS MATHUR
+1RV14IS066           9.05              A               A               S             ANVESHA SRIVASTAVA
+1RV14IS067           8.95              A               A               B                     SURAVI DAS
+1RV14IS068          10.00              S               S               S                      SAMRUDH J
+1RV14IS069           9.05              A               S               A PERUR VANAPARTHI DEEPTHI KRISH
+1RV14IS070           9.00              A               A               A               PARIDHI MOHINDRA
+1RV14IS071           9.05              A               A               S                   KANCHU KIRAN

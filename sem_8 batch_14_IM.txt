@@ -1,0 +1,54 @@
+USN                  SGPA         12IM81          12IM82         12HSS83                           NAME
+1RV14IM001           9.95              S               A               S                 AANCHAL NARULA
+1RV14IM002           9.05              A               A               S                  ABHAY A MANAY
+1RV14IM003           9.95              S               A               S              ADARSH M SHETTY B
+1RV14IM004           7.95              B               B               C          ADITYA SINGH RATHORE 
+1RV14IM005           9.90              S               A               A           AISHWARYA SHARANAPPA
+1RV14IM006           8.70              A               B               E                       AJAY W S
+1RV14IM007           9.95              S               A               S         ANAND SANJAY DEVARMANI
+1RV14IM008           9.00              A               B               S                 ANIRUDH G RAO 
+1RV14IM009           8.95              A               A               B             ANKIT PRATAP JENA 
+1RV14IM010           9.90              S               A               A               ANUSHKA BHANSALI
+1RV14IM011           9.95              S               A               S                     ARPITA P D
+1RV14IM012           9.95              S               A               S          A V R SUSHEEL CHANDRA
+1RV14IM013           9.95              S               A               S              BHUSHAN S MAIDALA
+1RV14IM014           9.00              A               A               A      DEEPTHI SAI M CHANDHAVAR 
+1RV14IM016           9.95              S               A               S                      GOWTHAM L
+1RV14IM017           9.95              S               A               S                        HAMSA S
+1RV14IM019           9.95              S               A               S            JAIN NISCHAY SANJAY
+1RV14IM020           8.95              A               B               A                  KEERTHAN B S 
+1RV14IM024           9.90              S               A               A                    M R DEEPTHI
+1RV14IM025           9.90              S               A               A                 MANISH SHANKAR
+1RV14IM026           9.95              S               A               S                  MANOJ SHANKAR
+1RV14IM027           9.95              S               A               S                 MD AFAAN AHMED
+1RV14IM028           9.95              S               A               S                      MEGHANA M
+1RV14IM029           9.95              S               A               S                     MONISH B S
+1RV14IM030           9.05              A               A               S           MOHAMMED ADNAN PASHA
+1RV14IM031           8.05              B               A               B               MUKUND S KUDLUGI
+1RV14IM032           8.95              A               A               B                  NAMAN DALMIA 
+1RV14IM033           9.95              S               A               S                      NAYANTARA
+1RV14IM034           9.00              A               A               A                NISCHAY AGARWAL
+1RV14IM035           8.95              A               A               B           PADAM KANT BHARADWAJ
+1RV14IM036           9.95              S               A               S             PAVITHRA SREEKUMAR
+1RV14IM037           9.85              S               B               A                   PRAKHAR DAGA
+1RV14IM039           9.85              S               B               A                 PRIYANK NAHATA
+1RV14IM041           9.05              A               A               S                      RIDHI S V
+1RV14IM042           8.95              A               B               A                   RISHAV MITRA
+1RV14IM043           9.95              S               A               S              ROHIT KUMAR PARHI
+1RV14IM044           9.90              S               A               A          RUCHIKA SHIVA SHANKAR
+1RV14IM045           9.00              A               B               S       SAMEER HARISH CHITRAGAR 
+1RV14IM047           7.80              B               B               E                 SARVESH GILADA
+1RV14IM048           9.95              S               A               S                 SHALINEE GHOSH
+1RV14IM050           8.00              B               B               B                     SHREYAS S 
+1RV14IM051           9.00              A               B               S               SHRIRANG AGARWAL
+1RV14IM052           8.10              B               B               S                    SPARSH GARG
+1RV14IM053           9.90              S               B               S               SUSHMA JAGANNATH
+1RV14IM054           9.95              S               A               S                    VAISHNAVI R
+1RV14IM055           9.90              S               A               A                 VARUN SREEDHAR
+1RV14IM056           9.90              S               B               S                    VIBHOR KALA
+1RV14IM058           9.05              A               A               S                    VINUTHA B M
+1RV14IM059           9.05              A               A               S                  VISHWAL MOOGI
+1RV14IM060           8.95              A               B               A                   WASIM ASHROF
+1RV14IM062           8.90              A               B               B                 SUNIDHI SINGH 
+1RV14IM063           9.95              S               A               S               TANISH M PHUTANE
+1RV14IM064           8.00              B               B               B                  SUMAIYA CHAND

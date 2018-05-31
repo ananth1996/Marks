@@ -1,0 +1,50 @@
+USN                  SGPA        12HSM51          12TE52          12TE53          12TE54         12TE5AX         12TE5BX                           NAME
+1RV15TE001           8.12              B               B               B               C               A               A                 ABHIRAJ BISWAS
+1RV15TE003           8.31              B               B               B               B               A               A                  ADITYA VIKRAM
+1RV15TE004           6.46              B               F               B               B               B               B                  AISHWARYA R K
+1RV15TE006           1.35              D            NSSR            NSSR            NSAR               D              AB             AMIT JAGADISH SURE
+1RV15TE007           9.15              A               A               A               A               A               S                  ANKIT KASHYAP
+1RV15TE008           8.31              B               B               B               B               S               B                     ANURAG A R
+1RV15TE009           9.31              A               A               A               A               S               S                  ARCHIT BAJPAI
+1RV15TE010           8.50              B               B               A               B               S               B                 ARKAPRAVA JANA
+1RV15TE011           6.27              B               B               C            NSSR               B               B                      ARUN NAIK
+1RV15TE012           1.35              F            NSSR               C               F            NSSR            NSSR                       ASHISH M
+1RV15TE014           6.31              C               F               B               C               A               B                     AYUSH JAIN
+1RV15TE015           8.65              B               B               A               B               S               A                    BHARGAV U K
+1RV15TE016           7.96              B               B               B               C               A               B           CHAITRA DECHAMMA K S
+1RV15TE017           8.12              B               B               B               C               S               B                      DEEKSHITH
+1RV15TE018           6.12              C               F               C               C               A               B                   G SHAKTHIVEL
+1RV15TE019           7.50              C               C               B               C               A               C                     GAYATHRI G
+1RV15TE020           8.85              B               A               A               B               S               A               GOPALA KRISHNA S
+1RV15TE021           7.62              D               B               B               C               A               B                      GOWTHAM C
+1RV15TE022           7.27              D               C               B               C               A               C                     HARSH JAIN
+1RV15TE023           8.15              B               B               A               C               A               B                  IRFAN PASHA K
+1RV15TE025           7.81              B               B               B               C               B               B                    JHANAVI B S
+1RV15TE026           8.35              C               B               A               C               S               A               KAZA SAI VINEETH
+1RV15TE028           8.96              A               A               A               B               S               A              KSHAMA S GAITONDE
+1RV15TE029           7.96              B               C               B               B               B               A                  MADHULIKA M S
+1RV15TE030           8.69              B               A               A               B               A               A                    MEGHANA R K
+1RV15TE031           7.96              B               B               B               C               B               A               MEGHANA S PRASAD
+1RV15TE033           7.96              B               B               B               C               A               B                MITICA M GRAMLE
+1RV15TE035           3.77              D               F               C            NSAR               B               E                    MOKSH DATTA
+1RV15TE037           8.62              A               B               B               A               A               A                 NISHANTH ADIGA
+1RV15TE039           7.46              B               C               C               B               B               C    PATRAPANDA HASMITA MONNAPPA
+1RV15TE040           7.96              B               B               B               C               A               B                  PAWAN KUMAR K
+1RV15TE041           8.35              B               A               B               B               A               B                    PRADEEP M P
+1RV15TE042           8.15              B               B               A               C               A               B                RAJ KISHORE B R
+1RV15TE043           7.81              B               B               B               C               B               B                  RISHABH SINHA
+1RV15TE044           8.50              B               B               A               B               A               A                      S APOORVA
+1RV15TE046           7.88              C               B               B               B               B               B                    SAI TEJAS S
+1RV15TE047           2.19              E               F            NSSR               D            NSSR               D             SAMRUDH ADVANI A M
+1RV15TE050           7.12              D               C               B               C               C               B                  SOUNDARYA G V
+1RV15TE051           8.65              B               B               A               B               S               A                    SOUNDARYA S
+1RV15TE053           8.31              B               B               B               B               A               A                   SUBHASHREE G
+1RV15TE054           6.42              B               F               B               C               A               B                      SURAJ B S
+1RV15TE055           3.00              D              AB               C            NSSR               C               F                  SWAROOPNATH G
+1RV15TE056           7.88              C               B               B               B               B               B                    TEJASWINI V
+1RV15TE057           7.12              C               C               B               D               B               B          THAMMINENI YATHIN SAI
+1RV15TE058           7.73              A               C               B               C               B               B                 THANYA M KUMAR
+1RV15TE061           7.62              B               C               B               C               B               B                 YASHASWINI S D
+1RV15TE062           7.58              A               C               B               C               C               B                      DIVYA G D
+1RV15TE063           5.96              E               C               C               D               C               D                  MARUTI NANDAN
+1RV15TE064           9.15              A               A               A               A               S               A                 YOJAN CHITKARA
